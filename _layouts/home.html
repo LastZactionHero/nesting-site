@@ -6,20 +6,46 @@ layout: default
 
 <div id="page-start"></div>
 
-{% include about.html %}
+<section id="about" class="light-gray-bg pv-20">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h3>Did you start your business in order to have more time and flexibility with your future family?</h3>
+        <h3>Now that you’re expecting have you considered how your business needs to change to give you your desired lifestyle?</h3>
 
-{% include stats.html %}
+        <h4>Have people been asking you these questions...</h4>
+        <ul>
+          <li>Are you telling your clients that you're pregnant?</li>
+          <li>Are you taking maternity leave?</li>
+          <li>What are you doing about childcare when you get back to work?</li>
+        </ul>
 
-{% include who_we_are.html %}
 
-{% include services.html %}
+      </div>
+    </div>
+  </div>
+</div>
 
-{% include cta.html %}
+{% include my_story.html %}
 
-{% include more_services.html %}
-
-{% include portfolio.html %}
+<div class="row">
+  <div class="col-lg-8 offset-lg-2">
+    <h2 class="text-center">How We <strong>Work Together</strong></h2>
+    <div class="separator"></div>
+  </div>
+</div>
+{% include working_together.html title="Working Through Pregnancy" %}
+{% include working_together.html title="Design Your Maternity Leave" %}
+{% include working_together.html title="Your Business with a Baby &amp; Beyond" %}
 
 {% include pricing.html %}
 
+{% include cta.html %}
+
+<div class="row">
+  <div class="col-lg-8 offset-lg-2">
+    <h2 class="text-center"><strong>Kind Words</strong></h2>
+    <div class="separator"></div>
+  </div>
+</div>
 {% include testimonials.html %}
