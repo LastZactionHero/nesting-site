@@ -1,0 +1,25 @@
+{
+  "name": "nesting-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastZactionHero/nesting-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LastZactionHero/nesting-site/issues"
+  },
+  "homepage": "https://github.com/LastZactionHero/nesting-site#readme",
+  "devDependencies": {
+    "owl.carousel": "^2.2.0",
+    "rollup": "^0.49.3",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-sass": "^0.5.3"
+  }
+}

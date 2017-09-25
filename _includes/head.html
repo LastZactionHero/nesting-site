@@ -42,9 +42,10 @@
     {% include google-analytics.html %}
     {% endif %}
 
-        <!-- The Project's core CSS file -->
+    <!-- The Project's core CSS file -->
     <!-- Use css/rtl_style.css for RTL version -->
-    <link href="/assets/css/style.css" rel="stylesheet" >
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
     <!-- The Project's Typography CSS file, includes used fonts -->
     <!-- Used font for body: Roboto -->
     <!-- Used font for headings: Raleway -->
