@@ -1,0 +1,72 @@
+---
+---
+
+// Colors named with: http://chir.ag/projects/name-that-color/#6195ED
+$color-white: #FFFFFF;
+$color-silver-chalice: #AAAAAA;
+$color-cerulean: #09afdf;
+
+$color-brand: $color-cerulean;
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-weight: lighter;  
+}
+
+// Theme Overrides
+.logo-font {
+  color: $color-brand;
+  font-weight: lighter; 
+}
+
+.default-bg, .icon.default-bg {
+  background-color: $color-brand;
+}
+
+.text-default {
+  color: $color-brand;
+}
+
+// Bootstrap Overrides
+.btn-info {
+  background-color: $color-brand;
+  border-color: $color-brand;
+}
+
+// Component: Splash
+.splash {
+  height: 450px;
+  background-color: $color-silver-chalice;
+  padding: 100px 0px;
+  background-image: url('/assets/images/nesting/bg-splash.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+
+  h1 {
+    margin-top: 0px;
+    text-align: center;
+    color: $color-white;
+    text-transform: none;
+    font-weight: lighter;
+    font-size: 4rem;
+  }
+  
+  h1 .logo-font {
+    color: $color-brand;
+    font-size: 6rem;
+  }
+  
+  .subtitle {
+    color: $color-white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: lighter;
+  }
+  
+  h1, h2, .subtitle {
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+  }
+}

@@ -11,7 +11,7 @@ export default {
     resolve(),
     sass({
       options: {
-        file: 'src/main.sass'
+        file: 'src/custom.scss'
       },
       output: 'rollup.css'
     })
