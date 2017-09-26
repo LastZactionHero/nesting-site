@@ -1,9 +1,46 @@
-/* Theme Name: The Project - Responsive Website Template
-Author:HtmlCoder
-Author URI:http://www.htmlcoder.me
-Author e-mail:htmlcoder.me@gmail.com
-Version:1.4.0
-Created:December 2014
-License URI:http://support.wrapbootstrap.com/
-File Description: Place here your custom CSS styles
-*/
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.splash {
+  height: 450px;
+  background-color: #AAAAAA;
+  padding: 100px 0px;
+  background-image: url('/assets/images/nesting/bg-splash.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.splash h1 {
+  margin-top: 0px;
+  text-align: center;
+  color: #FFFFFF;
+  text-transform: none;
+  font-weight: lighter;
+  font-size: 4rem;
+}
+
+.splash h1 .logo-font {
+  color: #09afdf;
+  font-size: 6rem;
+}
+
+.splash .subtitle {
+  color: white;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: lighter;
+}
+
+.splash h1, .splash h2, .splash .subtitle {
+  text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+}
+
+h2 {
+  font-weight: lighter;  
+}
+
+h2 .logo-font {
+  color: #09afdf;
+  font-weight: lighter; 
+}
