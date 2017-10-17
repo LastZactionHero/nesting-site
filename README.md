@@ -1,7 +1,11 @@
-## Compile Javascript
+## Setup
+
+- Install Jekyll
+
+## Run Jekyll
 
 ```
-rollup -c rollup.config.js
+bundle exec jekyll serve --watch
 ```
 
 ## "The Project" Theme
