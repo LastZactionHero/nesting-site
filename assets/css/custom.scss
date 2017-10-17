@@ -47,10 +47,12 @@ p.large {
 }
 
 // Bootstrap Overrides
-.btn-info {
+.btn-info, .btn-info:focus, .btn-info:hover {
   background-color: $color-brand;
   border-color: $color-brand;
+  color: $color-white;
 }
+
 
 // Component: Splash
 .splash {
