@@ -1,6 +1,18 @@
 ---
 ---
 
+@import 'bootstrap';
+@import 'font-awesome';
+
+@import 'magnific-popup/magnific-popup';
+@import 'animations';
+@import 'owlcarousel2/assets/owl.carousel';
+@import 'owlcarousel2/assets/owl.theme.default';
+@import 'hover/hover';
+
+// 'The Project's' Typography
+@import 'typography-default';
+
 // Colors named with: http://chir.ag/projects/name-that-color/#6195ED
 $color-white: #FFFFFF;
 $color-silver-chalice: #AAAAAA;

@@ -32,6 +32,9 @@ plugins:
 sass:
   load_paths:
     - _sass
+    - assets/plugins
+    - assets/bootstrap/css
+    - assets/fonts/font-awesome/css
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
