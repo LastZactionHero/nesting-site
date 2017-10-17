@@ -50,5 +50,16 @@
 			$(event.target).closest(".flip-card").flip('toggle')
 		});
 
+		$('.owl-carousel.testimonial-carousel').owlCarousel({
+			items: 1,
+			autoplay: true,
+			autoplayTimeout: 5000,
+			autoplaySpeed: 700,
+			loop: true,
+			nav: false,
+			navText: false,
+		});
+
+
 	}); // End document ready
 })(this.jQuery);

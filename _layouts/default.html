@@ -461,7 +461,7 @@
 				</div>
 			</section>
 
-			<section class="section light-gray-bg clearfix">
+			<!-- <section class="section light-gray-bg clearfix">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
@@ -509,58 +509,14 @@
 					</div>
 					
 				</div>
-			</section>
+			</section> -->
 
-			<section id="section-4" class="section dark-translucent-bg" style="background-image: url(images/agency-background-img-3.jpg);">
-				<div class="owl-carousel content-slider">
-					<div class="container">
-						<div class="row">
-							<div class="col-lg-8 col-lg-offset-2">
-								<div class="testimonial text-center">
-									<div class="testimonial-image">
-										<img src="/assets/images/testimonial-1.jpg" alt="Jane Doe" title="Jane Doe" class="rounded-circle">
-									</div>
-									<h3>Just Perfect!</h3>
-									<div class="separator"></div>
-									<div class="testimonial-body">
-										<blockquote>
-											<p>&quot;Solution oriented&quot; is the phrase I would use to describe Meghan. I had the pleasure of working with Meghan for four years, where we successfully scaled operations for an innovative, vendor supported ad product. Under Meghan’s leadership, her team delivered quickly and efficiently, becoming a trusted partner to me. Meghan is smart and personable; I always enjoyed being able to spend time hashing out our business objectives together. Her skills would be valuable to any business.</p>
-										</blockquote>
-										<div class="testimonial-info-1">- Lindsay Jonas</div>
-										<div class="testimonial-info-2">Yahoo!</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="container">
-						<div class="row">
-								<div class="col-lg-8 col-lg-offset-2">
-								<div class="testimonial text-center">
-									<div class="testimonial-image">
-										<img src="/assets/images/testimonial-2.jpg" alt="Jane Doe" title="Jane Doe" class="rounded-circle">
-									</div>
-									<h3>Amazing!</h3>
-									<div class="separator"></div>
-									<div class="testimonial-body">
-										<blockquote>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et cupiditate deleniti ratione in. Expedita nemo, quisquam, fuga adipisci omnis ad mollitia libero culpa nostrum est quia eos esse vel!</p>
-										</blockquote>
-										<div class="testimonial-info-1">- Jane Doe</div>
-										<div class="testimonial-info-2">By Company</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="container">
-					<div class="clients-container">
-						<div class="clients">
-							<div class="client-image">
-								<a href="#">X <img src="/assets/images/client-1.png" alt=""></a>
-							</div>
-						</div>
+			<section id="section-4" class="section dark-translucent-bg" style="background-image: url(assets/images/agency-background-img-3.jpg);">
+				<div class='container'>
+					<div class="owl-carousel content-slider testimonial-carousel">
+						{% for testimonial in site.data.testimonials %}
+							{% include testimonial.html testimonial=testimonial %}
+						{% endfor %}					
 					</div>
 				</div>
 			</section>
