@@ -350,110 +350,32 @@
 							<p class="large text-center">At the end of our time together your business will be a well-oiled machine. The machine you’ve probably been dreaming about since long before you got pregnant.</p>
 						</div>
 					</div>
+
 					<div class='row'>
-
 						<div class="col-md-4 ">
-							<div class='flip-card'>
-								<div class='front'>
-									<div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-										<span class="icon default-bg circle"><i class="fa fa-diamond"></i></span>
-										<h3>Strategy</h3>
-										<div class="separator clearfix"></div>
-										<p>We’ll start with a Strategy Call. We’ll get to know each other and I’ll learn all about your business and your goals for your maternity leave. We’ll review options you’ve considered and those you may not have thought of. We’ll talk about any hang-ups you’ve had with getting work done during pregnancy.</p>
-										<a href="javascript:void(0)" class='flip-toggle'>Strategy call includes <i class="pl-5 fa fa-angle-double-right"></i></a>
-									</div>
-								</div>
-								<div class='back'>
-									<div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-										<h3>Strategy call includes:</h3>
-										<ul class='text-left'>											
-											<li>Define goals for your maternity leave</li>
-											<li>Identify options for your business</li>
-											<li>Calculate your finances</li>
-											<li>Review areas for delegation and automation</li>
-											<li>Develop new product ideas</li>
-											<li>Discuss productivity and tools to work with the “pregnancy brain”</li>
-										</ul>
-										<a href="javascript:void(0)" class='flip-toggle'>Back <i class="pl-5 fa fa-angle-double-right"></i></a>
-									</div>
-								</div>				
-							</div>
+							{% include feature_flipcard.html feature=site.data.features.strategy %}
 						</div>
 
 						<div class="col-md-4 ">
-							<div class='flip-card'>
-								<div class='front'>
-									<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="150">
-										<span class="icon default-bg circle"><i class="fa fa-connectdevelop"></i></span>
-										<h3>Plans</h3>
-										<div class="separator clearfix"></div>
-										<p>I’ll provide you with detailed project plans to accomplish the goals we identify during the strategy session. These plans give you a simple task list to follow on a customized timeline. The timeline ensures the work gets done before D-Day while making sure to build in enough time for your current client work and the Rest that your body needs.</p>
-										<a href="javascript:void(0)" class='flip-toggle'>X Project plans may include X<i class="pl-5 fa fa-angle-double-right"></i></a>
-									</div>
-								</div>
-								<div class='back'>
-									<div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-											<h3>Project plans may include:</h3>
-											<ul class='text-left'>											
-												<li>Build a digital product</li>
-												<li>Launch a course</li>
-												<li>Create editorial calendars</li>
-												<li>Develop marketing content</li>
-												<li>Hire and onboard a VA</li>
-												<li>Automate a sales funnel</li>
-												<li>And more.</li>
-											</ul>
-											<a href="javascript:void(0)" class='flip-toggle'>Back <i class="pl-5 fa fa-angle-double-right"></i></a>
-										</div>
-								</div>
-							</div>
+							{% include feature_flipcard.html feature=site.data.features.plans %}
 						</div>
 
 						<div class="col-md-4 ">
-							<div class='flip-card'>
-								<div class='fronst'>
-									<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="200">
-										<span class="icon default-bg circle"><i class="fa icon-snow"></i></span>
-										<h3>Process</h3>
-										<div class="separator clearfix"></div>
-										<p>We’re going to take all your important processes and document them using my developed templates. These SOPs (standard operating procedures) can be used by you when you’re tired and your brain in overloaded OR by any team members you hire making sure the end result is consistent each time.</p>
-										<a href="#">X Processes may include X<i class="pl-5 fa fa-angle-double-right"></i></a>
-									</div>
-								</div>
-							</div>
+							{% include feature_flipcard.html feature=site.data.features.process %}
 						</div>
-
 					</div>
 
 					<div class='row'>
 						<div class="col-md-4 ">
-							<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="200">
-								<span class="icon default-bg circle"><i class="fa icon-snow"></i></span>
-								<h3>Tech &amp; Tools</h3>
-								<div class="separator clearfix"></div>
-								<p>We’ll evaluate your current workflows, software mix, and business plans to maximize automation and efficiency. We’ll make sure you are using the best tools for your business without overspending on tech. And we’ll get each tool set-up and integrated into your business so you won’t have that nagging to-do item on your list that never seems to get done.</p>
-								<a href="#">X Together we will X<i class="pl-5 fa fa-angle-double-right"></i></a>
-							</div>
+							{% include feature_flipcard.html feature=site.data.features.tech_tools %}
 						</div>
 
 						<div class="col-md-4 ">
-							<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="200">
-								<span class="icon default-bg circle"><i class="fa icon-snow"></i></span>
-								<h3>Motivation &amp; Support</h3>
-								<div class="separator clearfix"></div>
-								<p>Running an online business is often an isolating affair and I found it to be more so when I was pregnant. It’s hard to find the dedication for your business when you have such a big non-business event happening in your life. Our Motivation & Accountability calls will help you refocus back on your business NOW so you can completely unplug when the little one arrives.</p>
-								<a href="#">X These calls are used to X<i class="pl-5 fa fa-angle-double-right"></i></a>
-							</div>
+							{% include feature_flipcard.html feature=site.data.features.motivation_support %}
 						</div>
 
 						<div class="col-md-4 ">
-							<div class="pv-30 ph-20 feature-box bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="200">
-								<span class="icon default-bg circle"><i class="fa icon-snow"></i></span>
-								<h3>Documentation & Instruction</h3>
-								<div class="separator clearfix"></div>
-								<p>Have you lost your phone in the refrigerator yet? Not to worry, your body and brain are focused on A LOT right now. Our work together won’t be one more thing you need to worry about. All calls, decisions, and instructions will be documented so you won’t forget a thing.</p>
-								<a href="#">X Documentation includes X<i class="pl-5 fa fa-angle-double-right"></i></a>
-							</div>
+							{% include feature_flipcard.html feature=site.data.features.documentation %}
 						</div>
 					</div>
 
