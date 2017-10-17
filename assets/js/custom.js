@@ -60,6 +60,18 @@
 			navText: false,
 		});
 
+		$('.scroll-to').on('click', function(event) {
+			event.stopPropagation();
+			event.preventDefault();
+
+			var scrollOffset = -72;
+
+			$('html, body').animate({
+				scrollTop: $($(event.target).attr('href')).offset().top + scrollOffset
+			}, 500);
+
+		});
+
 
 	}); // End document ready
 })(this.jQuery);
