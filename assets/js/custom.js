@@ -42,6 +42,13 @@
 			}); // End Notify Plugin - The above code (from line 14) is used for demonstration purposes only
 
 		};
-	}); // End document ready
 
+		$(".flip-card").flip({
+			trigger: 'manual'
+		});
+		$('.flip-toggle').on('click', function(event) {
+			$(event.target).closest(".flip-card").flip('toggle')
+		});
+
+	}); // End document ready
 })(this.jQuery);
