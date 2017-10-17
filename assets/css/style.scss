@@ -1,9 +1,12 @@
 ---
 ---
 
+@import 'theproject';
+
 @import 'bootstrap';
 @import 'font-awesome';
 
+// Some plugins we may or may not use
 @import 'magnific-popup/magnific-popup';
 @import 'animations';
 @import 'owlcarousel2/assets/owl.carousel';
@@ -13,16 +16,10 @@
 // 'The Project's' Typography
 @import 'typography-default';
 
-// Colors named with: http://chir.ag/projects/name-that-color/#6195ED
-$color-white: #FFFFFF;
-$color-silver-chalice: #AAAAAA;
-$color-cerulean: #09afdf;
-$color-dove-gray: #616161;
-$color-brand: #2E174E;
-// 43AA8B
+@import 'colors';
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 h1 { 
