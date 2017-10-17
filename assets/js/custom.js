@@ -60,6 +60,17 @@
 			navText: false,
 		});
 
+		$('.owl-carousel.thought-questions-carousel').owlCarousel({
+			items: 1,
+			autoplay: true,
+			autoplayTimeout: 3000,
+			autoplaySpeed: 700,
+			loop: true,
+			nav: false,
+			navText: false,
+			dots: false
+		});
+
 		$('.scroll-to').on('click', function(event) {
 			event.stopPropagation();
 			event.preventDefault();

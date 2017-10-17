@@ -117,14 +117,6 @@ p.large {
   z-index: -1;   
 }
 
-.feature-box-2 {
-  .body {
-    h4.title {
-      font-size: 1.7rem;
-    }
-  }
-}
-
 .feature-flipcard {
   height: 450px;
   margin-bottom: 24px;
@@ -133,5 +125,18 @@ p.large {
 .testimonial {
   p {
     color: $color-white;
+  }
+}
+
+.thought-questions-carousel {
+  padding: 48px 0px;
+  margin: 48px 0px;
+  border-top: 3px solid $color-silver-chalice;
+  border-bottom: 3px solid $color-silver-chalice;
+
+  .thought-question {
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
   }
 }

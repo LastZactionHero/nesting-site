@@ -193,39 +193,15 @@
 							<p class="large text-center">You’re not in a corporate job that dictates how much leave you can take and how much you can make while you’re recovering and getting to know your new baby.</p>
 						</div>
 					</div>
-					<br>
-					<br>
+
 					<div class="row">
-						<div class="col-md-6">
-							<div class="feature-box-2 object-non-visible right" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-								<!-- <span class="icon without-bg"><i class="fa fa-calendar"></i></span> -->
-								<div class="body">
-									<h4 class="title">Will you be working at all in the first few weeks or months?</h4>
-									<div class="separator-3"></div>
-								</div>
-							</div>
-							<div class="feature-box-2 object-non-visible right" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-								<!-- <span class="icon without-bg"><i class="fa fa-users"></i></span> -->
-								<div class="body">
-									<h4 class="title">Will you hire a team to keep the lights on?</h4>
-									<div class="separator-3"></div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="feature-box-2 object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-								<!-- <span class="icon without-bg"><i class="fa fa-money"></i></span> -->
-								<div class="body">
-									<h4 class="title">Will you have a passive product running to bring in some income?</h4>
-									<div class="separator-2"></div>
-								</div>
-							</div>
-							<div class="feature-box-2 object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-								<!-- <span class="icon without-bg"><i class="fa fa-user"></i></span> -->
-								<div class="body">
-									<h4 class="title">Will you keep your current clients or offboard them?</h4>
-									<div class="separator-2"></div>
-								</div>
+						<div class="col-md-8 col-md-offset-2">
+							<div class="object-non-visible owl-carousel thought-questions-carousel" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+								{% for question in site.data.thought_questions %}
+									<div class='thought-question'>
+										{{ question }}
+									</div>
+								{% endfor %}
 							</div>
 						</div>
 					</div>
