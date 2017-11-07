@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Terms of Service'
+permalink: "/terms/"
 ---
 
 # Nesting Your Business Terms of Service
