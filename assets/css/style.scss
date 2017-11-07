@@ -81,6 +81,10 @@ a {
   max-height: 40px;
 }
 
+.navbar li a:hover {
+  color: $color-ocean-green !important;
+}
+
 // Component: Splash
 .splash {
   position: relative;
