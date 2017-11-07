@@ -223,7 +223,7 @@ layout: default
           <div class="plan shadow light-gray-bg bordered">
             <div class="header dark-bg">
               <h3 class='multiline'>MomMind Accountability</h3>
-              <div class="price"><span>$200/month</div>
+              <div class="price"><span>$200/month</span></div>
             </div>
             <ul>
               <li>Small Group Mastermind (Max 5 participants)</li>
