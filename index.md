@@ -113,7 +113,7 @@ layout: default
         <p>Have you started to think about your maternity leave?</p>
         <p>Let’s Connect.</p>
         <div class='text-center'>
-          <a class='btn btn-lg btn-info' href='#'>X Schedule a Free Consult. X</a>
+          <a class='btn btn-lg btn-info' href='/contact'>Schedule a Free Consult</a>
         </div>
       </div>
 
@@ -236,7 +236,7 @@ layout: default
           <!-- pricing table end -->
         </div>
       </div>
-      <p class='text-center large'>Not sure what you need? <a href='/'>XX Book a Free Consult XX</a> and we’ll review your business, your maternity leave goals, and the best plan of action to get you there.</p>
+      <p class='text-center large'>Not sure what you need? <a href='/contact'>Book a Free Consult</a> and we’ll review your business, your maternity leave goals, and the best plan of action to get you there.</p>
     </div>
     <!-- pricing tables end -->
     
