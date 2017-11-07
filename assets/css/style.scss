@@ -69,6 +69,14 @@ p.large {
 }
 
 
+.header .logo img {
+  height: 50px;
+}
+
+.fixed-header-on .header .logo img {
+  max-height: 40px;
+}
+
 // Component: Splash
 .splash {
   position: relative;
