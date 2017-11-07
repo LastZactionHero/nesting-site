@@ -72,12 +72,12 @@ motivation_support:
 documentation:
   title: Documentation & Instruction
   icon: fa-bookmark
-  description: Have you lost your phone in the refrigerator yet? Not to worry, your body and brain are focused on A LOT right now. Our work together won’t be one more thing you need to worry about. All calls, decisions, and instructions will be documented so you won’t forget a thing.
+  description: Have you lost your phone in the refrigerator yet? Not to worry, your body and brain are focused on A LOT right now. Our work together won’t be one more thing you need to worry about. All calls, decisions, and instructions will be documented so you won't forget a thing and you can refer back to the materials at any time or share them with your team.
   flip-link: 'Documentation includes'
   list-title: 'Documentation includes:'
   list-items:
     - Recorded Zoom calls
     - Report summaries for all strategic decisions
-    - Details project plans shared in your preferred format (Trello, Asana, or Google Drive)
+    - Detailed project plans shared in your preferred format (Trello, Asana, or Google Drive)
     - Documented SOPs for all defined processes
-    - PowerPoints detailing tech instructions
+    - Loom video tutorials detailing tech instructions
