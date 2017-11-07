@@ -40,6 +40,10 @@ p.large {
   font-size: 2rem;
 }
 
+a {
+  color: $color-brand;
+}
+
 // Theme Overrides
 .logo-font {
   font-family: 'Shadows Into Light', cursive;
