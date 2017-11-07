@@ -171,3 +171,17 @@ a {
     font-style: italic;
   }
 }
+
+.full-width-quote {
+  background-image:url('/assets/images/nesting/bg-quote.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  
+  font-size: 2.5rem;
+
+  .logo-font {
+    margin: 12px 0px;
+    font-size: 3rem;
+    color: $color-ocean-green;
+  }
+}
