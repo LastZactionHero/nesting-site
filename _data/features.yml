@@ -1,5 +1,6 @@
 strategy:
-  title: 'Strategy'
+  title: Strategy
+  icon: fa-compass
   description: 'We’ll start with a Strategy Call. We’ll get to know each other and I’ll learn all about your business and your goals for your maternity leave. We’ll review options you’ve considered and those you may not have thought of. We’ll talk about any hang-ups you’ve had with getting work done during pregnancy.'
   flip-link: Strategy call includes
   list-title: 'Strategy call includes:'
@@ -13,6 +14,7 @@ strategy:
 
 plans:
   title: Plans
+  icon: fa-calendar-check-o
   description: I’ll provide you with detailed project plans to accomplish the goals we identify during the strategy session. These plans give you a simple task list to follow on a customized timeline. The timeline ensures the work gets done before D-Day while making sure to build in enough time for your current client work and the Rest that your body needs. 
   flip-link: 'Project plans may include'
   list-title: 'Project plans may include:'
@@ -27,6 +29,7 @@ plans:
 
 process:
   title: Process
+  icon: fa-tasks
   description: We’re going to take all your important processes and document them using my developed templates. These SOPs (standard operating procedures) can be used by you when you’re tired and your brain in overloaded OR by any team members you hire making sure the end result is consistent each time.
   flip-link: 'Processes may include'
   list-title: 'Processes may include:'
@@ -41,6 +44,7 @@ process:
 
 tech_tools:
   title: Tech & Tools
+  icon: fa-sitemap
   description: We’ll evaluate your current workflows, software mix, and business plans to maximize automation and efficiency. We’ll make sure you are using the best tools for your business without overspending on tech. And we’ll get each tool set-up and integrated into your business so you won’t have that nagging to-do item on your list that never seems to get done.
   flip-link: 'Together we will'
   list-title: 'Together we will:'
@@ -52,6 +56,7 @@ tech_tools:
 
 motivation_support:
   title: Motivation & Support
+  icon: fa-life-ring
   description: Running an online business is often an isolating affair and I found it to be more so when I was pregnant. It’s hard to find the dedication for your business when you have such a big non-business event happening in your life. Our Motivation & Accountability calls will help you refocus back on your business NOW so you can completely unplug when the little one arrives.
   flip-link: 'These calls are used to'
   list-title: 'These calls are used to:'
@@ -66,6 +71,7 @@ motivation_support:
 
 documentation:
   title: Documentation & Instruction
+  icon: fa-bookmark
   description: Have you lost your phone in the refrigerator yet? Not to worry, your body and brain are focused on A LOT right now. Our work together won’t be one more thing you need to worry about. All calls, decisions, and instructions will be documented so you won’t forget a thing.
   flip-link: 'Documentation includes'
   list-title: 'Documentation includes:'
