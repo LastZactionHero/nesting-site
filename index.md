@@ -10,9 +10,7 @@ title: Maternity Leave Design
 <div class='splash'>
   <div class='row'>
     <div class='col-md-7'>
-        <h1><span class="logo-font">Nesting</span><br/>Your Business</h1>
-        
-        <hr/>
+        <img src="/assets/images/nesting/logo_large.png" />
 
         <div class='subtitle'>Prepare For Your New Work-Life As a Parent</div>
 
