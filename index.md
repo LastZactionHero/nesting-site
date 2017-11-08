@@ -9,25 +9,25 @@ home: true
 
 <!-- banner end -->
 <div class='splash'>
-  <div class='row'>
-    <div class='col-md-7'>
-        <img src="/assets/images/nesting/logo_large.png" />
+  <div class='container'>
+    <div class='row'>
+      <div class='col-md-7'>
+          <img src="/assets/images/nesting/logo_large.png" />
 
-        <div class='subtitle'>Prepare For Your New Work-Life As a Parent</div>
+          <div class='subtitle'>Prepare For Your New Work-Life As a Parent</div>
 
-        <div class='pv-30 row'>
-          <div class='col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-3 col-xs-12'>
-              <div class='text-center choice'><a href='#how-we-work-together' class='btn btn-info scroll-to'>Working Through Pregnancy</a></div>
-              <div class='text-center choice'><a href='#how-we-work-together' class='btn btn-info scroll-to'>Design Your Maternity Leave</a></div>
-              <div class='text-center choice'><a href='#how-we-work-together' class='btn btn-info scroll-to'>Your Business with a Baby &amp; Beyond</a></div>
+          <div class='pv-30 row'>
+            <div class='col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-3 col-xs-12'>
+                <div class='text-center choice'><a href='#how-we-work-together' class='btn btn-info scroll-to'>Working Through Pregnancy</a></div>
+                <div class='text-center choice'><a href='#how-we-work-together' class='btn btn-info scroll-to'>Design Your Maternity Leave</a></div>
+                <div class='text-center choice'><a href='#how-we-work-together' class='btn btn-info scroll-to'>Your Business with a Baby &amp; Beyond</a></div>
+            </div>
+
           </div>
+      </div>
 
-        </div>
     </div>
-
   </div>
-
-
 </div>
 
 <div id="page-start"></div>
