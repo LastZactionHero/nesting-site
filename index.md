@@ -81,7 +81,9 @@ title: Maternity Leave Design
     <div class='row'>
       <div class='col-md-10 col-md-offset-1'>
           <p class='large text-center'>
-            There's a lot to consider. All this freedom is empowering. It can also be overwhelming. Especially when you're pregnant and drained at the end of each day.
+            There's a lot to consider. All this freedom is empowering. It can also be overwhelming.
+            <br/>
+            Especially when you're pregnant and drained at the end of each day.
             <br/><br/>
             I know because I’ve been there.
           </p>
