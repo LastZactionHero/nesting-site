@@ -106,9 +106,17 @@
 												<!-- main-menu -->
 												<ul class="nav navbar-nav ">
 
-													<li><a href="#my-story" class='scroll-to'>My Story</a></li>
-													<li><a href="#how-we-work-together" class='scroll-to'>How We Work Together</a></li>
-													<li><a href="#pricing" class='scroll-to'>Pricing</a></li>
+													<!-- Different behavior if linking from home page or another page -->
+													<!-- On home page, scroll to the anchor -->														
+													{% if page.home %}
+														<li><a href="#my-story" class='scroll-to'>My Story</a></li>
+														<li><a href="#how-we-work-together" class='scroll-to'>How We Work Together</a></li>
+														<li><a href="#pricing" class='scroll-to'>Pricing</a></li>
+													{% else %} <!-- On non-home page, link to root page at the anchor -->
+														<li><a href="/#my-story">My Story</a></li>
+														<li><a href="/#how-we-work-together">How We Work Together</a></li>
+														<li><a href="/#pricing">Pricing</a></li>
+													{% endif %}
 													<li><a href="/contact">Contact</a></li>
 													<li><a href="/">X Blog X</a></li>
 
