@@ -1,83 +1,103 @@
+---
 strategy:
   title: Strategy
   icon: fa-compass
-  description: 'We’ll start with a Strategy Call. We’ll get to know each other and I’ll learn all about your business and your goals for your maternity leave. We’ll review options you’ve considered and those you may not have thought of. We’ll talk about any hang-ups you’ve had with getting work done during pregnancy. We’ll map out exactly what we will accomplish during our time together.'
+  description: We’ll start with a Strategy Call. We’ll get to know each other and
+    I’ll learn all about your business and your goals for your maternity leave. We’ll
+    review options you’ve considered and those you may not have thought of. We’ll
+    talk about any hang-ups you’ve had with getting work done during pregnancy. We’ll
+    map out exactly what we will accomplish during our time together.
   flip-link: Strategy call includes
   list-title: 'Strategy call includes:'
   list-items:
-    - Define goals for your maternity leave
-    - Identify options for your business
-    - Calculate your finances
-    - Review areas for delegation and automation
-    - Develop new product ideas
-    - Discuss productivity and tools to work with the “pregnancy brain”
-
+  - Define goals for your maternity leave
+  - Identify options for your business
+  - Calculate your finances
+  - Review areas for delegation and automation
+  - Develop new product ideas
+  - Discuss productivity and tools to work with the “pregnancy brain”
 plans:
   title: Plans
   icon: fa-calendar-check-o
-  description: I’ll provide you with detailed project plans to accomplish the goals we identify during the strategy session. These plans give you a simple task list to follow on a customized timeline. The timeline ensures the work gets done before D-Day while making sure to build in enough time for your current client work and the Rest that your body needs. 
-  flip-link: 'Project plans may include'
+  description: I’ll provide you with detailed project plans to accomplish the goals
+    we identify during the strategy session. These plans give you a simple task list
+    to follow on a customized timeline. The timeline ensures the work gets done before
+    D-Day while making sure to build in enough time for your current client work and
+    the Rest that your body needs.
+  flip-link: Project plans may include
   list-title: 'Project plans may include:'
   list-items:
-    - Build a digital product
-    - Launch a course
-    - Create editorial calendars
-    - Develop marketing content
-    - Hire and onboard a VA
-    - Automate a sales funnel
-    - And more.
-
+  - Build a digital product
+  - Launch a course
+  - Create editorial calendars
+  - Develop marketing content
+  - Hire and onboard a VA
+  - Automate a sales funnel
+  - And more.
 process:
   title: Process
   icon: fa-tasks
-  description: We’re going to take all your important processes and document them using my developed templates. These SOPs (standard operating procedures) can be used by you when you’re tired and your brain in overloaded OR by any team members you hire making sure the end result is consistent each time.
-  flip-link: 'Processes may include'
+  description: We’re going to take all your important processes and document them
+    using my developed templates. These SOPs (standard operating procedures) can be
+    used by you when you’re tired and your brain in overloaded OR by any team members
+    you hire making sure the end result is consistent each time.
+  flip-link: Processes may include
   list-title: 'Processes may include:'
   list-items:
-    - Writing, editing, and posting a blog post
-    - FB group monitoring
-    - Social media engagement
-    - Client onboarding
-    - Funnel design and launch
-    - SEO optimization
-    - And more.
-
+  - Writing, editing, and posting a blog post
+  - FB group monitoring
+  - Social media engagement
+  - Client onboarding
+  - Funnel design and launch
+  - SEO optimization
+  - And more.
 tech_tools:
   title: Tech & Tools
   icon: fa-sitemap
-  description: We’ll evaluate your current workflows, software mix, and business plans to maximize automation and efficiency. We’ll make sure you are using the best tools for your business without overspending on tech. And we’ll get each tool set-up and integrated into your business so you won’t have that nagging to-do item on your list that never seems to get done.
-  flip-link: 'Together we will'
+  description: We’ll evaluate your current workflows, software mix, and business plans
+    to maximize automation and efficiency. We’ll make sure you are using the best
+    tools for your business without overspending on tech. And we’ll get each tool
+    set-up and integrated into your business so you won’t have that nagging to-do
+    item on your list that never seems to get done.
+  flip-link: Together we will
   list-title: 'Together we will:'
   list-items:
-    - Review your current tools and tech set-up
-    - Identify new tools to support your business
-    - Streamline your software mix
-    - Provide tech support and training for any migrations
-
+  - Review your current tools and tech set-up
+  - Identify new tools to support your business
+  - Streamline your software mix
+  - Provide tech support and training for any migrations
 motivation_support:
   title: Motivation & Support
   icon: fa-life-ring
-  description: Running an online business is often an isolating affair and I found it to be more so when I was pregnant. It’s hard to find the dedication for your business when you have such a big non-business event happening in your life. Our Motivation & Accountability calls will help you refocus back on your business NOW so you can completely unplug when the little one arrives.
-  flip-link: 'These calls are used to'
+  description: Running an online business is often an isolating affair and I found
+    it to be more so when I was pregnant. It’s hard to find the dedication for your
+    business when you have such a big non-business event happening in your life. Our
+    Motivation & Accountability calls will help you refocus back on your business
+    NOW so you can completely unplug when the little one arrives.
+  flip-link: These calls are used to
   list-title: 'These calls are used to:'
   list-items:
-    - Review plan progress and work through any blocks
-    - Guide strategic decisions
-    - Answer questions & brainstorm/refine ideas
-    - Provide recommended resources for any outsourced work
-    - Demo tools and tech training
-    - Commiserate on all the changes your baby is making to your mind and body
-    - Share tips and tricks for working during this time
-
+  - Review plan progress and work through any blocks
+  - Guide strategic decisions
+  - Answer questions & brainstorm/refine ideas
+  - Provide recommended resources for any outsourced work
+  - Demo tools and tech training
+  - Commiserate on all the changes your baby is making to your mind and body
+  - Share tips and tricks for working during this time
 documentation:
   title: Documentation & Instruction
   icon: fa-bookmark
-  description: Have you lost your phone in the refrigerator yet? Not to worry, your body and brain are focused on A LOT right now. Our work together won’t be one more thing you need to worry about. All calls, decisions, and instructions will be documented so you won't forget a thing and you can refer back to the materials at any time or share them with your team.
-  flip-link: 'Documentation includes'
+  description: Have you lost your phone in the refrigerator yet? Not to worry, your
+    body and brain are focused on A LOT right now. Our work together won’t be one
+    more thing you need to worry about. All calls, decisions, and instructions will
+    be documented so you won't forget a thing and you can refer back to the materials
+    at any time or share them with your team.
+  flip-link: Documentation includes
   list-title: 'Documentation includes:'
   list-items:
-    - Recorded Zoom calls
-    - Report summaries for all strategic decisions
-    - Detailed project plans shared in your preferred format (Trello, Asana, or Google Drive)
-    - Documented SOPs for all defined processes
-    - Loom video tutorials detailing tech instructions
+  - Recorded Zoom calls
+  - Report summaries for all strategic decisions
+  - Detailed project plans shared in your preferred format (Trello, Asana, or Google
+    Drive)
+  - Documented SOPs for all defined processes
+  - Loom video tutorials detailing tech instructions
