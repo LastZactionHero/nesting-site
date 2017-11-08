@@ -237,7 +237,7 @@ title: Maternity Leave Design
           <!-- pricing table end -->
         </div>
       </div>
-      <p class='text-center large'>Not sure what you need? <a href='/contact'>Book a Free Consult</a> and we’ll review your business, your maternity leave goals, and the best plan of action to get you there.</p>
+      <p class='text-center large'>Not sure what you need? <strong><a href='/contact'>Book a Free Consult</a></strong> and we’ll review your business, your maternity leave goals, and the best plan of action to get you there.</p>
     </div>
     <!-- pricing tables end -->
     
