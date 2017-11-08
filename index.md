@@ -294,7 +294,7 @@ title: Maternity Leave Design
   </div>
 </section> -->
 
-<section id="section-4" class="section dark-translucent-bg">
+<section id="section-4" class="section" style="background-image: url(assets/images/nesting/bg-quote.png);">
   <div class='container'>
     <div class="owl-carousel content-slider testimonial-carousel">
       {% for testimonial in site.data.testimonials %}
