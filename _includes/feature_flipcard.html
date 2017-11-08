@@ -1,15 +1,23 @@
 <div class='flip-card feature-flipcard'>
   <div class='front'>
-    <div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+    <div class="card text-center">
       <span class="icon default-bg circle"><i class="fa {{ include.feature.icon }}"></i></span>
       <h3>{{ include.feature.title }}</h3>
       <div class="separator clearfix"></div>
       <p>{{ include.feature.description }}</p>
       <a href="javascript:void(0)" class='flip-toggle'>{{ include.feature.flip-link }} <i class="pl-5 fa fa-angle-double-right"></i></a>
     </div>
+    <!-- <div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+      <span class="icon default-bg circle"><i class="fa {{ include.feature.icon }}"></i></span>
+      <h3>{{ include.feature.title }}</h3>
+      <div class="separator clearfix"></div>
+      <p>{{ include.feature.description }}</p>
+      <a href="javascript:void(0)" class='flip-toggle'>{{ include.feature.flip-link }} <i class="pl-5 fa fa-angle-double-right"></i></a>
+    </div> -->
+    
   </div>
   <div class='back'>
-    <div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+    <div class="card text-center">
       <h3>{{ include.feature.list-title }}</h3>
       <ul class='text-left'>											
         {% for list-item in include.feature.list-items %}
@@ -18,7 +26,16 @@
       </ul>
       <a href="javascript:void(0)" class='flip-toggle'>Back <i class="pl-5 fa fa-angle-double-right"></i></a>
     </div>
+    
+    <!-- <div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+      <h3>{{ include.feature.list-title }}</h3>
+      <ul class='text-left'>											
+        {% for list-item in include.feature.list-items %}
+          <li>{{ list-item }}</li>
+        {% endfor %}
+      </ul>
+      <a href="javascript:void(0)" class='flip-toggle'>Back <i class="pl-5 fa fa-angle-double-right"></i></a>
+    </div> -->
+    
   </div>				
 </div>
-
-<!-- pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible -->

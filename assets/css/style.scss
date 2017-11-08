@@ -139,14 +139,23 @@ a:hover, a:focus {
   z-index: -1;   
 }
 
-.feature-flipcard {
-  height: 450px;
+.feature-flipcard {  
   margin-bottom: 24px;
 
   a {
     font-weight: bold;
   }
+
+  .card {
+    height: 450px;
+    border: 1px solid $color-gallery;
+    padding: 30px 20px;
+    -webkit-box-shadow: 0px 2px 9px 0px rgba(0,0,0,0.27);
+    -moz-box-shadow: 0px 2px 9px 0px rgba(0,0,0,0.27);
+    box-shadow: 0px 2px 9px 0px rgba(0,0,0,0.27);
+  }
 }
+
 
 .testimonial {
   p {
