@@ -1,0 +1,32 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout (post)
+  description: Type 'post'
+  config:
+    required: true
+- type: text
+  label: Title
+  name: title
+  description: Post Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: text
+  name: permalink
+  label: Permalink
+  config:
+    required: true
+  description: Path to post
+- type: text
+  name: summary
+  label: Summary
+  description: Summary description displayed in blog post list
+  config:
+    required: true
