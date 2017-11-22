@@ -33,3 +33,7 @@ fields:
   description: Summary description displayed in blog post list
   config:
     required: true
+- type: text
+  name: description
+  label: Description
+  description: Meta description
