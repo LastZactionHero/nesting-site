@@ -1,7 +1,7 @@
 ---
 pages:
-- _posts/another-post-from-forestry.md
 - _posts/2017-11-08-post-from-forestry.md
+- _posts/another-post-from-forestry.md
 hide_body: false
 fields:
 - type: text
