@@ -1,6 +1,6 @@
 ---
 title: My Baby Ate My Creativity
-date: 2017-11-14 15:56:49 -0700
+date: 2017-11-21 15:56:49 -0700
 layout: post
 permalink: "/my-baby-ate-my-creativity/"
 summary: My creativity died during pregnancy. Here are my tips to work around this
