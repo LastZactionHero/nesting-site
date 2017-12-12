@@ -1,6 +1,6 @@
 ---
 title: Have You Been Nesting? Has your business benefited?
-date: 2017-12-01 08:05:05 -0700
+date: 2017-10-31 08:05:05 -0600
 layout: post
 permalink: "/have-you-been-nesting-has-your-business-benefited/"
 summary: This is the summary description displayed in the blog post list.
@@ -8,7 +8,7 @@ description: I'm a meta description. I appear in search descriptions.
 ---
 You’re pregnant and you’re running a business. My sympathies. I’ve been there. If I’ve learned anything from pregnancy it’s that no two are ever alike. So I won’t presume to know exactly what you’re going through. But I want to share my experience and perhaps some of it will resonate with you.
 
-Every day was a bit of an emotional roller coaster. I could tackle specific client tasks, because I had an external deadline.[ I’m an Obliger so it was easy enough to get work done when someone was expecting something.](https://lifehacker.com/the-four-motivation-types-and-how-they-affect-your-habi-1692300112 "Better Than Before Habit Motivation") Yet, I _knew_ I needed to start preparing my business for all the changes ahead. I was taking a maternity leave and I didn’t know exactly how I would run my business once I got back to work after the baby.
+Every day was a bit of an emotional roller coaster. I could tackle specific client tasks, because I had an external deadline**.** [**I’m an Obliger so it was easy enough to get work done when someone was expecting something.**](https://lifehacker.com/the-four-motivation-types-and-how-they-affect-your-habi-1692300112 "Better Than Before Habit Motivation") Yet, I _knew_ I needed to start preparing my business for all the changes ahead. I was taking a maternity leave and I didn’t know exactly how I would run my business once I got back to work after the baby.
 
 Taking time to work on advancing your business is not a problem isolated to pregnant entrepreneurs. Most business owners that I know, struggle to carve out the time to work on their own business development (taking it to the next level). Everyone is so focused on finding clients and working on client work that their own brand suffers. Now throw in pregnancy hormones, morning sickness, and extreme fatigue and it’s so easy to push those tasks off until tomorrow.
 
