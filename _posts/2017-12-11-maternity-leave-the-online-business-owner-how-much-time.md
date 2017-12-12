@@ -30,7 +30,7 @@ And then one day, just a little into the second month, one of my former clients 
 
 **Months 3 and 4. Getting Ready.**
 
-Working with one client continued for a couple months and I continued to work on strategy and the launching of another business (this one!). Every day got a little easier. We’d been working on a routine for naps, eating, and playtime from the beginning and Bennet and I were finally getting into a solid daily rhythm. Now when my mind turned to work, I was eager for it.
+Working with one client continued for a couple months and I continued to work on strategy and the launching of another business (this one!). Every day got a little easier. We’d been working on a [**routine for naps, eating, and playtime from the beginning** ](http://nestingyourbusiness.com/can-you-work-with-a-baby-at-home-with-no-childcare/ "Nesting Your Business Can You Work With a Baby at Home With No Childcare?")and Bennet and I were finally getting into a solid daily rhythm. Now when my mind turned to work, I was eager for it.
 
 **Month 5. Full Steam Ahead.**
 
