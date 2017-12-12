@@ -18,7 +18,7 @@ When you go to a 9-5 job you get paid for showing up and not necessarily based o
 
 **Structure**
 
-In an office, you usually have someone directing you on your day’s tasks. It may not be completely micromanaged, but usually there’s some structure. During pregnancy, I craved that structure. I’m normally very disciplined and have no problem getting through the workload. There’s something about pregnancy that zapped that drive. Pregnancy brain hit me hard. [**I was completely scattered most days and my creativity levels were scarily low. **](http://nestingyourbusiness.com/my-baby-ate-my-creativity/ "Nesting Your Business My Baby Ate My Creativity")It’s really hard to write sales copy or come up with a new strategy when those synapses aren’t firing. The structure and team environment of an office always seemed like a good tonic to these problems.
+In an office, you usually have someone directing you on your day’s tasks. It may not be completely micromanaged, but usually there’s some structure. During pregnancy, I craved that structure. I’m normally very disciplined and have no problem getting through the workload. There’s something about pregnancy that zapped that drive. Pregnancy brain hit me hard. [**I was completely scattered most days and my creativity levels were scarily low.**](http://nestingyourbusiness.com/my-baby-ate-my-creativity/ "Nesting Your Business My Baby Ate My Creativity") It’s really hard to write sales copy or come up with a new strategy when those synapses aren’t firing. The structure and team environment of an office always seemed like a good tonic to these problems.
 
 **Benefits**
 
