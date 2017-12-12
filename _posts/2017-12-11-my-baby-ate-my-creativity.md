@@ -36,7 +36,7 @@ Review your findings from your observation week and adjust your schedule. If you
 
 It’s very hard to jumpstart a blank brain all on your own. You can adjust your schedule or force yourself to stay in your seat until the work is done, but sometimes that’s not enough. Ideas are often generated best by a group. You throw out an idea or a problem, someone else makes a comment that builds on it, that comment gives you an idea and suddenly the conversation has fired up your brain. (I have a theory that this is why I did so much better right after a meeting.) As solopreneurs, we only have so many moments during a day to interact and collaborate with others. I strongly recommend finding online groups, networking events, and masterminds to participate in during your pregnancy.
 
-It’s just not a great time to be working on your own. It’s the reason I developed the [**MomMind mini masterminds**](http://nestingyourbusiness.com/#how-we-work-together "MomMind Mini Masterminds"). Each group includes five women, all pregnant, all running a business, and all preparing for a maternity leave. The groups meet every other week and allows everyone to collaborate, commiserate, and communicate. Ok that’s a lot of alliteration, but you get the idea.
+It’s just not a great time to be working on your own. It’s the reason I developed the [**MomMind mini masterminds**](http://nestingyourbusiness.com/#pricing "Nesting Your Business MomMind Mini Masterminds"). Each group includes five women, all pregnant, all running a business, and all preparing for a maternity leave. The groups meet every other week and allows everyone to collaborate, commiserate, and communicate. Ok that’s a lot of alliteration, but you get the idea.
 
 **Outsource**
 
