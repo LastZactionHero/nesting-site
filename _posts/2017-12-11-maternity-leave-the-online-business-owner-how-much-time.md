@@ -22,11 +22,11 @@ We couldn’t live in a cocoon forever and by his 3rd week of life I started che
 
 **2 Months. No Client Work.**
 
-Another month passed. Bennet and I were getting into a routine. He loved to sleep in coffee shops (thank you baby!) so several days a week we would camp out in one and I started to work on the business. I did behind-the-scenes work. Strategy planning, copywriting, business organization - all the things that usually take a backseat when you’re flooded with client work. It felt good to get the work accomplished and at the same time, it was low risk. I could start and stop when I needed. I wasn’t adding another obligation that HAD to be completed. This was working well and I told myself by month 3 I would start contacting clients. 
+Another month passed. Bennet and I were getting into a routine. He loved to sleep in coffee shops (thank you baby!) so several days a week we would camp out in one and I started to work on the business. I did behind-the-scenes work. Strategy planning, copywriting, business organization - all the things that usually take a backseat when you’re flooded with client work. It felt good to get the work accomplished and at the same time, it was low risk. I could start and stop when I needed. I wasn’t adding another obligation that HAD to be completed. This was working well and I told myself by month 3 I would start contacting clients.
 
 **2.5 Months. One Client.**
 
-And then one day, just a little into the second month, one of my former clients contacted me. Her business was booming, team expanding, and a lot of projects happening at once. They needed their project manager back. It ended up being great to ease into client work with just one client. We started at 5 hours a week and with Bennet at home I was able to put some solid boundaries in place.
+And then one day, just a little into the second month, one of my former clients contacted me. Her business was booming, team expanding, and a lot of projects happening at once. They needed their project manager back. It ended up being great to ease into client work with just one client. We started at 5 hours a week and with Bennet at home [**I was able to put some solid boundaries in place.**](http://nestingyourbusiness.com/working-with-a-baby-at-home-made-me-a-better-business-owner/ "Nesting Your Business Working With a Baby at Home Made Me a Better Business Owner")
 
 **Months 3 and 4. Getting Ready.**
 
