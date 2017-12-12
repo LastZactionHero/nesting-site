@@ -3,8 +3,10 @@ title: Have You Been Nesting? Has your business benefited?
 date: 2017-10-31 08:05:05 -0600
 layout: post
 permalink: "/have-you-been-nesting-has-your-business-benefited/"
-summary: This is the summary description displayed in the blog post list.
-description: I'm a meta description. I appear in search descriptions.
+summary: Nesting happens to most pregnant women. Have your nesting efforts been directed
+  toward your business?
+description: Nesting happens to most pregnant women. Have your nesting efforts been
+  directed toward your business?
 ---
 You’re pregnant and you’re running a business. My sympathies. I’ve been there. If I’ve learned anything from pregnancy it’s that no two are ever alike. So I won’t presume to know exactly what you’re going through. But I want to share my experience and perhaps some of it will resonate with you.
 
