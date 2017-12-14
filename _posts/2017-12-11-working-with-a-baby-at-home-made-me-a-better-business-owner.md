@@ -1,6 +1,6 @@
 ---
 title: Working With a Baby at Home Made Me a Better Business Owner
-date: 2017-11-14 15:50:27 -0700
+date: 2017-11-14 22:50:27 +0000
 layout: post
 permalink: "/working-with-a-baby-at-home-made-me-a-better-business-owner/"
 summary: Babies and business aren't supposed to mix. I'm challenging this assumption

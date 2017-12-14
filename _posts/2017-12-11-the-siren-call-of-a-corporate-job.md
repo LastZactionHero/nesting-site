@@ -1,6 +1,6 @@
 ---
 title: The Siren Call of a Corporate Job
-date: 2017-11-07 15:44:31 -0700
+date: 2017-11-07 22:44:31 +0000
 permalink: "/the-siren-call-of-a-corporate-job/"
 layout: post
 summary: The allure of a corporate job for a pregnant entrepreneur.

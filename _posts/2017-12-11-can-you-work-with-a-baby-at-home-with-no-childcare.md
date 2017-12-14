@@ -1,6 +1,6 @@
 ---
 title: Can You Work With a Baby at Home With No Childcare?
-date: 2017-12-05 16:09:16 -0700
+date: 2017-12-05 23:09:16 +0000
 layout: post
 permalink: "/can-you-work-with-a-baby-at-home-with-no-childcare/"
 summary: Childcare is expensive and solopreneur income can be unpredictable. Here's
