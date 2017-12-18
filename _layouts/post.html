@@ -14,14 +14,19 @@ layout: default
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
         {% endif %}</p>
     </header>
+    <div class='col-md-8'>
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
 
-    <div class="post-content" itemprop="articleBody">
-      {{ content }}
+      {% if site.disqus.shortname %}
+        {% include disqus_comments.html %}
+      {% endif %}
+     </div>
+     <div class='col-md-4'>
+       {% include ck_form.html %}
+     </div>
     </div>
-
-    {% if site.disqus.shortname %}
-      {% include disqus_comments.html %}
-    {% endif %}
   </div>
 </article>
 
