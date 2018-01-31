@@ -2,9 +2,9 @@
 title: Magical Things Happen When You Are "Not Working"
 date: 2018-01-24 00:00:00 +0000
 permalink: "/magical-things-happen-when-you-are-not-working/"
-summary: Exhausted from pregnancy? Playing with a baby on the floor? These seem like
-  times that you have to put work away, but you're most brilliant ideas can come when
-  you let your mind wander.
+summary: Today I was presented with one of those logistical puzzles that comes from
+  working with a baby at home. We needed to be out of the house while some workers
+  were there, during B's normal nap, when I slotted time to write a blog post.
 description: Exhausted from pregnancy? Playing with a baby on the floor? These seem
   like times that you have to put work away, but you're most brilliant ideas can come
   when you let your mind wander.
