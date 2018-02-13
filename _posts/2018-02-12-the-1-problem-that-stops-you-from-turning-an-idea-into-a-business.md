@@ -2,15 +2,9 @@
 title: 'The #1 Problem That Stops You From Turning An Idea Into A Business'
 date: 2018-02-12 00:00:00 +0000
 layout: post
-permalink: "/the-number-1-problem-that-stops-you-from-turning-an-idea-into-a-business"
-summary: Everyone I talk to, (business owner or not) has ideas for a business. And
-  business owners usually have a 101 different thoughts spinning at all times. So
-  what is stopping all of these talented people from launching a business or turning
-  an idea into a new revenue stream?
+permalink: "/the-number-1-problem-that-stops-you-from-turning-an-idea-into-a-business/"
+summary: Everyone I talk to, (business owner or not) has ideas for a business.
 description: Everyone I talk to, (business owner or not) has ideas for a business.
-  And business owners usually have a 101 different thoughts spinning at all times.
-  So what is stopping all of these talented people from launching a business or turning
-  an idea into a new revenue stream?
 ---
 Last time, we talked about [**using time away from your technology to cultivate ideas for business growth.** ](http://nestingyourbusiness.com/magical-things-happen-when-you-are-not-working/ "http://nestingyourbusiness.com/magical-things-happen-when-you-are-not-working/")Every entrepreneur needs this time to let their brain get creative. And as a working mom, you have the bonus of a lot of hours away from the computer. Hours that can serve double-duty as quality time with your kids and time for those ideas to germinate. (Don’t worry, you can focus on your kids and let some of these ideas just percolate in the subconscious). 
 
