@@ -55,4 +55,4 @@ The [**MomMinds **](Your community is there to fill all sorts of needs. This gro
 
 Whether a small group mastermind is for you, or you know a different avenue works better, my advice is to get out there a build that tribe/network/community. This group will grow your business.
 
-### Are you a business owner with kids at home? Interested in learning what these MomMinds are all about? [Join us on Thursday, March 30th at 10am Eastern for a FREE introductory session.  ]()
+### Are you a business owner with kids at home? Interested in learning what these MomMinds are all about? [Join us on Friday, March 30th at 1:30pm Eastern for a FREE introductory session.  ](https://go.nestingyourbusiness.com/mommind-session "Nesting Your Business Free MomMind Session")
