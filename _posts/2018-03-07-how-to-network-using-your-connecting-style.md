@@ -42,8 +42,8 @@ This question could take it own blog post. There are so many different ways to c
 2. Social Media:
    1. **The big Facebook group**. These groups have a large reach with a target audience and you can grow your community quickly if you’re committed to being active.
    2. **Smaller private groups or Slack channels** can provide that intimacy that is hard to capture over social media. Find groups that provide the amount of structure and facilitation that works for you.
-3. Conferences and workshops. 
-   1. **The big conference** gives you reach, but you have to be more extroverted. 
+3. Conferences and workshops.
+   1. **The big conference** gives you reach, but you have to be more extroverted.
    2. **The workshops** are more intimate and may help the introverts to make connection. (I personally love small workshops to really get to know people in an intimate, structured setting.)
 4. Masterminds and memberships:
    1. **Membership programs** are often set up to teach, but the best ones also have a strong community component. Some of the larger ones will force you to be more active and extroverted just like those big conferences and Facebook groups.
@@ -51,8 +51,8 @@ This question could take it own blog post. There are so many different ways to c
 
 I’ve been meeting with a group of women weekly via video chat for over a year. Our numbers range weekly from three to ten participants, and while we’ve never met in person I call each and every one a friend. From this group, I’ve found clients, I’ve found inspiration, I’ve found drive and accountability, and I’ve found confidence by sharing what I know and watching it help someone else achieve their goals. This group was my inspiration to start the MomMinds. Not everyone connects in the same way, but I’ve found that a small group setting, meeting on a regular basis is one of the fastest ways to build real connection for most people.
 
-The [**MomMinds **](Your community is there to fill all sorts of needs. This group of people know you, like you, believe in you and they want to see you succeed. They may be potential clients or customers. They may be your colleagues, in the trenches with you and knowing at a personal level what you’re going through day-to-day. They may be your champions, singing your praises for all to hear, bringing you clients and growing your community with their introductions. You may have a started a business by yourself, but you grow a business with these people. "Nesting Your Business Free MomMind")give mompreneurs a chance to connect with five other women all at similar stages of raising their kids and building their businesses. By meeting on a regular basis with a small group, everyone is able to build those deep connections that are so important.
+The [**MomMinds**](https://go.nestingyourbusiness.com/mommind-session "Nesting Your Business Free MomMind Session") give mompreneurs a chance to connect with five other women all at similar stages of raising their kids and building their businesses. By meeting on a regular basis with a small group, everyone is able to build those deep connections that are so important.
 
 Whether a small group mastermind is for you, or you know a different avenue works better, my advice is to get out there a build that tribe/network/community. This group will grow your business.
 
-### Are you a business owner with kids at home? Interested in learning what these MomMinds are all about? [Join us on Friday, March 30th at 1:30pm Eastern for a FREE introductory session.  ](https://go.nestingyourbusiness.com/mommind-session "Nesting Your Business Free MomMind Session")
+### Are you a business owner with kids at home? Interested in learning what these MomMinds are all about? [**Join us on Friday, March 30th at 1:30pm Eastern for a FREE introductory session.**](https://go.nestingyourbusiness.com/mommind-session "Nesting Your Business Free MomMind Session")  
