@@ -1,8 +1,8 @@
 ---
 pages:
-- _posts/2018-03-07-how-to-network-using-your-connecting-style.md
 - _posts/2018-02-12-the-1-problem-that-stops-you-from-turning-an-idea-into-a-business.md
 - _posts/2018-01-30-magical-things-happen-away-from-your-computer-when-you-are-not-working.md
+- _posts/2018-03-07-how-to-network-using-your-connecting-style.md
 - _posts/2017-12-11-can-you-work-with-a-baby-at-home-with-no-childcare.md
 - _posts/2017-12-11-maternity-leave-the-online-business-owner-how-much-time.md
 - _posts/2017-12-11-my-baby-ate-my-creativity.md
@@ -12,6 +12,7 @@ pages:
 - _posts/2017-12-08-have-you-been-nesting-has-your-business-benefited.md
 - _posts/another-post-from-forestry.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: layout
