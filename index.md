@@ -190,7 +190,7 @@ to you, your business, and your new family.
 <div class="plan shadow light-gray-bg bordered">
 <div class="header dark-bg">
 <h3>Strategy & Plan</h3>
-<div class="price"><span>$450</span></div>
+<div class="price"><span>$597</span></div>
 </div>
 <ul class="">										
 <li>2-Hour Strategy & Planning Intensive</li>
