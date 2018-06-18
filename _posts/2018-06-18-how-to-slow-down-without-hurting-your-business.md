@@ -2,7 +2,7 @@
 title: How to Slow Down Without Hurting Your Business
 date: 2018-06-18 00:00:00 +0000
 layout: post
-permalink: "/How-to-slow-down-without-hurting-your-business"
+permalink: "/how-to-slow-down-without-hurting-your-business/"
 summary: '18 summers with our children.  That’s all we have.  18 summers to soak up
   every moment we have with our littles. Running through sprinklers, catching fireflies,
   watching sunsets, camping under the stars, swimming, road trips, barbeques, sand
