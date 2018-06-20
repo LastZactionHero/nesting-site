@@ -3,16 +3,10 @@ title: Dadpreneurs Are Real!
 date: 2018-06-20 00:00:00 +0000
 layout: "'post'"
 permalink: "/Dadpreneurs-are-real"
-summary: 'With Father’s Day this past weekend, I have been doing a bit of reflection
-  upon all the Dads in my life. I was blessed to have a Dad who loved being a Dad
-  and really loved spending time with us. He loved coaching basketball. He loved planning
-  trips to show us all sorts of wonders in this world. And today, he loves watching
-  us build our lives and playing with Bennet. '
-description: 'With Father’s Day this past weekend, I have been doing a bit of reflection
-  upon all the Dads in my life. I was blessed to have a Dad who loved being a Dad
-  and really loved spending time with us. He loved coaching basketball. He loved planning
-  trips to show us all sorts of wonders in this world. And today, he loves watching
-  us build our lives and playing with Bennet. '
+summary: With Father’s Day this past weekend, I have been doing a bit of reflection
+  upon all the Dads in my life.
+description: With Father’s Day this past weekend, I have been doing a bit of reflection
+  upon all the Dads in my life.
 ---
 With Father’s Day this past weekend, I have been doing a bit of reflection upon all the Dads in my life. I was blessed to have a Dad who loved being a Dad and really loved spending time with us. He loved coaching basketball. He loved planning trips to show us all sorts of wonders in this world. And today, he loves watching us build our lives and playing with Bennet. 
 
