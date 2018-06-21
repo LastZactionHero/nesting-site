@@ -2,7 +2,7 @@
 title: Dadpreneurs Are Real!
 date: 2018-06-20 00:00:00 +0000
 layout: post
-permalink: "/dadpreneurs-are-real"
+permalink: "/dadpreneurs-are-real/"
 summary: With Father’s Day this past weekend, I have been doing a bit of reflection
   upon all the Dads in my life.
 description: With Father’s Day this past weekend, I have been doing a bit of reflection
