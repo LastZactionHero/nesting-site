@@ -7,7 +7,7 @@
             {% unless image_src contains '/uploads' %}
               {% assign image_src = image_src | prepend: "/assets/images/testimonials/" %}
             {% endunless %}
-            <img src="{{ image_src }}" alt="Jane Doe" title="Jane Doe" class="rounded-circle">
+            <img src="{{ image_src }}" alt="{{ include.testimonial.name }}" title="{{ include.testimonial.name }}" class="rounded-circle">
           </div>
           <div class="separator"></div>
           <div class="testimonial-body">
