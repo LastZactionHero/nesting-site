@@ -100,6 +100,8 @@ to you, your business, and your new family.
 <div class="col-md-8 col-md-offset-2">
 <h2>My Story</h2>
 <div class="separator-2"></div>
+
+<img src="/assets/images/meghan_bennet_steps.png" class='hidden-xs' alt="" style='float: left; margin-right: 36px; width: 300px;'>
 <p>I'm an entrepreneur because I'm building a family centric lifestyle alongside a fulfilling career and I'm committed to helping other families navigate this path for themselves.</p>
 <p>Here's the short version of my journey that led me to you.</p>
 <ul>
