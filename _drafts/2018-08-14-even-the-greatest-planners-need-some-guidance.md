@@ -1,6 +1,6 @@
 ---
 title: Even The Greatest Planners Need Some Guidance
-date: 2018-07-31 14:24:13 -0600
+date: 2018-07-30 14:24:13 -0600
 layout: post
 permalink: "/even-the-greatest-planners-need-some-guidance/"
 summary: This week we talk to the planners. You know who you are...
