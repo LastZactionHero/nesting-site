@@ -39,6 +39,6 @@ Perspective is key.
 
 Go ahead and ask your friends that have kids, get to know what this life is like from those in the middle of it. Knowing what lies ahead will help you make business decisions that will truly serve and support the lifestyle you are aiming to live.
 
-If you're curious, I'd be happy to chat with you about everything I've learned in the last year and how I've adjusted my business in ways I never could have foreseen pre-kids. Click [here](http://www.nestingyourbusiness.com/contact/) to schedule a call. I'll look forward to chatting with you!
+If you're curious, I'd be happy to chat with you about everything I've learned in the last year and how I've adjusted my business in ways I never could have foreseen pre-kids. [**Click here**](http://www.nestingyourbusiness.com/contact/ "Nesting Your Business Contact") to schedule a call. I'll look forward to chatting with you!
 
 And happy family planning! ;)
