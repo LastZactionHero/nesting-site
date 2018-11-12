@@ -37,6 +37,7 @@ fields:
   label: Description
   description: Meta description
 pages:
+- _posts/i-said-yes-to-everything-for-48-hours.md
 - _posts/2018-10-15-live-free-mama.md
 - _posts/2018-09-10-you-have-permission-to-grow.md
 - _posts/2018-08-14-even-the-greatest-planners-need-some-guidance.md
