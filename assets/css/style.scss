@@ -17,35 +17,65 @@
 @import 'typography-default';
 
 @import 'colors';
+@import 'breathe';
 
 body {
   font-family: 'Raleway', sans-serif;
 }
 
-h1 { 
+h1 {
   text-transform: none;
 }
 
 h2 {
-  font-weight: lighter; 
+  text-align: center;
+  font-weight: bold;
   text-transform: none;
-  font-size: 4rem; 
+  font-size: 4rem;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+%subtitle {
+  text-align: center;
+  font-weight: normal;
+}
+
+h2.subtitle {
+  @extend %subtitle;
+  font-size: 2.5rem;
 }
 
 p {
   color: $color-dove-gray;
 }
 
-p.large {
+p.p1 {
+  font-size: 3rem;
+}
+
+p.p2 {
   font-size: 2rem;
+  padding: 12px 0px;
 }
 
 a {
   color: $color-brand;
+  cursor: pointer;
 }
 
 a:hover, a:focus {
   color: $color-ocean-green;
+}
+
+ul {
+  li {
+    font-size: 2rem;
+    margin-bottom: 6px;
+  }
 }
 
 // Theme Overrides
@@ -65,8 +95,8 @@ a:hover, a:focus {
 
 // Bootstrap Overrides
 .btn-info, .btn-info:focus, .btn-info:hover {
-  background-color: $color-brand;
-  border-color: $color-brand;
+  background-color: $color-flush-orange;
+  border-color: $color-flush-orange;
   color: $color-white;
 }
 
@@ -97,37 +127,22 @@ a:hover, a:focus {
   background-color: $color-brand-transparent;
 
   img {
-    margin: 0px auto 24px auto;
+    margin: 0px auto 40px 0px;
   }
-  
+
   .subtitle {
     color: $color-white;
-    text-align: center;
-    font-size: 2rem;
+    text-align: left;
+    font-size: 3.5rem;
     font-weight: lighter;
-  }
-  
-  h2, .subtitle {
+    margin-left: 10px;
     text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
-  }
-
-  .btn {
-    border-radius: 2px;
-    padding: 14px;
-    font-size: 2rem;
-    width: 100%;
-    margin-bottom: 4px;
-  }
-
-  hr {
-    color: $color-white;
-    margin: 20px 10%;
   }
 }
 
 .splash::after {
   content: "";
-  background-image: url('/assets/images/nesting/bg-splash.jpg');
+  background-image: url('/assets/images/nesting/bg-splash-desk.jpg');
   background-position: 50% 50%;
   background-size: cover;
   opacity: 1;
@@ -139,15 +154,87 @@ a:hover, a:focus {
   z-index: -1;   
 }
 
-.feature-flipcard {  
+.splash-about {
+  position: relative;
+  height: 300px;
+  padding: 60px 0px;
+  background-color: $color-brand-transparent;
+}
+
+.splash-about:after {
+  background-position: 50% 30%;
+  background-image: url('/assets/images/nesting/bg-splash-meeting.jpg');
+}
+
+.feature-flipcard {
   margin-bottom: 24px;
+  position: relative;
+
+  .bottom {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+
+    .flip-toggle {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .cta {
+      background-color: $color-brand;
+      height: 48px;
+      display: block;
+      color: white;
+      line-height: 48px;
+      font-weight: normal;
+      font-size: 2rem;
+    }
+  }
+
+  .front {
+    .flip-toggle {
+      margin-bottom: 64px;
+    }
+  }
+
+  .icon {
+    margin-bottom: 8px;
+  }
+
+  h3 {
+    font-size: 2rem;
+    margin: 12px 0px 10px 0px;
+    padding: 0px;
+  }
+
+  h3.subtitle {
+    @extend %subtitle;
+    font-weight: bold;
+    margin: 0px 0px 16px 0px;
+  }
+
+  .list-title {
+    font-weight: bold;
+    text-align: left;
+    font-size: 1.5rem;
+    margin: 20px 0px 8px 0px;
+  }
 
   a {
     font-weight: bold;
   }
 
+  ul {
+    li {
+      font-size: 1.5rem;
+      margin-bottom: 6px;
+      text-align: left;
+    }
+  }
+
   .card {
-    height: 450px;
+    height: 640px;
     border: 1px solid $color-gallery;
     padding: 30px 20px;
     -webkit-box-shadow: 0px 2px 9px 0px rgba(0,0,0,0.27);
@@ -177,17 +264,12 @@ a:hover, a:focus {
 }
 
 .full-width-quote {
-  background-image:url('/assets/images/nesting/bg-quote.png');
+  background-image: url('/assets/images/nesting/bg-quote.png');
   background-position: 50% 50%;
   background-size: cover;
-  
-  font-size: 2.5rem;
 
-  .logo-font {
-    margin: 12px 0px;
-    font-size: 4rem;
-    color: $color-ocean-green;
-  }
+  font-size: 2rem;
+  line-height: 3.5rem;
 }
 .circle-head .plan .header h3 {
   font-size: 2rem;
@@ -228,3 +310,13 @@ ul.posts {
   }
 }
 
+.testimonial-carousel-wrapper {
+  background-image: url('/assets/images/nesting/bg-quote.png');
+}
+
+.package-cta {
+  .prompt {
+    font-size: 2rem;
+    margin-bottom: 12px;
+  }
+}

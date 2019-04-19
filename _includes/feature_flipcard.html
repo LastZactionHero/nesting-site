@@ -3,39 +3,30 @@
     <div class="card text-center">
       <span class="icon default-bg circle"><i class="fa {{ include.feature.icon }}"></i></span>
       <h3>{{ include.feature.title }}</h3>
+      <h3 class='subtitle'>{{ include.feature.price }}</h3>
       <div class="separator clearfix"></div>
       <p>{{ include.feature.description }}</p>
-      <a href="javascript:void(0)" class='flip-toggle'>{{ include.feature.flip-link }} <i class="pl-5 fa fa-angle-double-right"></i></a>
+
+      <div class='bottom'>
+        <a href="javascript:void(0)" class='flip-toggle'>{{ include.feature.flip-link }} <i class="pl-5 fa fa-angle-double-right"></i></a>
+        <a class='cta' target="_blank" href="{{ include.feature.cta-link }}">{{ include.feature.cta-title }}</a>
+      </div>
     </div>
-    <!-- <div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-      <span class="icon default-bg circle"><i class="fa {{ include.feature.icon }}"></i></span>
-      <h3>{{ include.feature.title }}</h3>
-      <div class="separator clearfix"></div>
-      <p>{{ include.feature.description }}</p>
-      <a href="javascript:void(0)" class='flip-toggle'>{{ include.feature.flip-link }} <i class="pl-5 fa fa-angle-double-right"></i></a>
-    </div> -->
-    
   </div>
   <div class='back'>
     <div class="card text-center">
-      <h3>{{ include.feature.list-title }}</h3>
-      <ul class='text-left'>											
+      <h3>{{ include.feature.back-description }}</h3>
+      <div class='list-title'>{{ include.feature.list-title }}</div>
+      <ul>
         {% for list-item in include.feature.list-items %}
           <li>{{ list-item }}</li>
         {% endfor %}
       </ul>
-      <a href="javascript:void(0)" class='flip-toggle'>Back <i class="pl-5 fa fa-angle-double-right"></i></a>
+
+      <div class='bottom'>
+        <a href="javascript:void(0)" class='flip-toggle'>Back <i class="pl-5 fa fa-angle-double-right"></i></a>
+        <a class='cta' target="_blank" href="{{ include.feature.cta-link }}">{{ include.feature.cta-title }}</a>
+      </div>
     </div>
-    
-    <!-- <div class="pv-30 ph-20 feature-box feature-box-mounted bordered shadow text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
-      <h3>{{ include.feature.list-title }}</h3>
-      <ul class='text-left'>											
-        {% for list-item in include.feature.list-items %}
-          <li>{{ list-item }}</li>
-        {% endfor %}
-      </ul>
-      <a href="javascript:void(0)" class='flip-toggle'>Back <i class="pl-5 fa fa-angle-double-right"></i></a>
-    </div> -->
-    
-  </div>				
+  </div>
 </div>

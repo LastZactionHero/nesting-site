@@ -25,7 +25,7 @@
 		<link rel="shortcut icon" href="/assets/images/favicon.ico">
 
 		<link href="https://fonts.googleapis.com/css?family=Raleway:400,700|Shadows+Into+Light|Montserrat" rel="stylesheet">
-		
+
 		<link href="/assets/css/style.css" rel="stylesheet">
 
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -51,50 +51,50 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<!-- scrollToTop -->
 		<!-- ================ -->
 		<div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>
-		
+
 		<!-- page wrapper start -->
 		<!-- ================ -->
 		<div class="page-wrapper">
-		
+
 			<!-- header-container start -->
 			<div class="header-container">
-				
-			
-				
+
+
+
 				<!-- header start -->
 				<!-- classes:  -->
 				<!-- "fixed": enables fixed navigation mode (sticky menu) e.g. class="header fixed clearfix" -->
 				<!-- "dark": dark version of header e.g. class="header dark clearfix" -->
 				<!-- "full-width": mandatory class for the full-width menu layout -->
 				<!-- "centered": mandatory class for the centered logo layout -->
-				<!-- ================ --> 
+				<!-- ================ -->
 				<header class="header  fixed    clearfix">
-					
+
 					<div class="container">
 						<div class="row">
 							<div class="col-md-3 ">
 								<!-- header-first start -->
 								<!-- ================ -->
 								<div class="header-first clearfix">
-									
-									
+
+
 									<!-- logo -->
 									<div id="logo" class="logo">
 										<a href="/">
 											<img src="/assets/images/nesting/logo_small.png" />
 										</a>
 									</div>
-					
+
 								</div>
 								<!-- header-first end -->
 
 							</div>
 							<div class="col-md-9">
-					
+
 								<!-- header-second start -->
 								<!-- ================ -->
 								<div class="header-second clearfix">
-									
+
 								<!-- main-navigation start -->
 								<!-- classes: -->
 								<!-- "onclick": Makes the dropdowns open on click, this the default bootstrap behavior e.g. class="main-navigation onclick" -->
@@ -116,33 +116,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 													<span class="icon-bar"></span>
 													<span class="icon-bar"></span>
 												</button>
-												
+
 											</div>
 
 											<!-- Collect the nav links, forms, and other content for toggling -->
 											<div class="collapse navbar-collapse" id="navbar-collapse-1">
 												<!-- main-menu -->
-												<ul class="nav navbar-nav ">
+												<ul class="nav navbar-nav navbar-right">
+
+													<li><a href="/about">About</a></li>
 
 													<!-- Different behavior if linking from home page or another page -->
-													<!-- On home page, scroll to the anchor -->														
+													<!-- On home page, scroll to the anchor -->
 													{% if page.home %}
-														<li><a href="#my-story" class='scroll-to'>My Story</a></li>
-														<li><a href="#how-we-work-together" class='scroll-to'>How We Work Together</a></li>
-														<li><a href="#pricing" class='scroll-to'>Pricing</a></li>
+														<li><a href="#at-your-service" class='scroll-to'>At Your Service</a></li>
 													{% else %} <!-- On non-home page, link to root page at the anchor -->
-														<li><a href="/#my-story">My Story</a></li>
-														<li><a href="/#how-we-work-together">How We Work Together</a></li>
-														<li><a href="/#pricing">Pricing</a></li>
+														<li><a href="/#at-your-service">At Your Service</a></li>
 													{% endif %}
 													<li><a href="/blog">Blog</a></li>
 													<li><a href="/contact">Contact</a></li>
-													<!-- <li><a href="/">X Blog X</a></li> -->
-
 												<!-- main-menu end -->
 												</div>
 												<!-- header dropdown buttons end-->
-												
+
 											</div>
 
 										</div>
@@ -153,17 +149,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<!-- main-navigation end -->
 								</div>
 								<!-- header-second end -->
-					
+
 							</div>
 						</div>
 					</div>
-					
+
 				</header>
 				<!-- header end -->
 			</div>
 			<!-- header-container end -->
-		
-			{{ content }}							
+
+			{{ content }}
 
 			<!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
 			<!-- ================ -->
@@ -319,7 +315,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										<ul class="social-links circle animated-effect-1">
 											<li class="pinterest"><a target="_blank" href="https://www.pinterest.com/meghandicklin/nesting-your-business/"><i class="fa fa-pinterest"></i></a></li>
 											<li class="instagram"><a target="_blank" href="https://www.instagram.com/meghandicklin/"><i class="fa fa-instagram"></i></a></li>
-											<li class="facebook"><a target="_blank" href="https://www.facebook.com/nestingyourbusiness/"><i class="fa fa-facebook"></i></a></li>																					
+											<li class="facebook"><a target="_blank" href="https://www.facebook.com/nestingyourbusiness/"><i class="fa fa-facebook"></i></a></li>
 										</ul>
 										<div class="separator-2"></div>
 										<ul class="list-icons">
@@ -352,15 +348,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 			</footer>
 			<!-- footer end -->
-			
+
 		</div>
 		<!-- page-wrapper end -->
 
-    {% if page.home %}
-      {% include ck_popup.html %}
-    {% endif %}
-
 		<script type="text/javascript" src="/assets/js/app.js"></script>
-    <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
+    <script async data-uid="02a4c23092" src="https://f.convertkit.com/02a4c23092/97e9b0e61e.js"></script>
 	</body>
 </html>

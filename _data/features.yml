@@ -1,103 +1,117 @@
 ---
-strategy:
-  title: Strategy
+the_anana_system:
+  title: "The Asana System: Time Management for Moms"
   icon: fa-compass
-  description: We’ll start with a Strategy Call. We’ll get to know each other and
-    I’ll learn all about your business and your goals for your maternity leave. We’ll
-    review options you’ve considered and those you may not have thought of. We’ll
-    talk about any hang-ups you’ve had with getting work done during pregnancy. We’ll
-    map out exactly what we will accomplish during our time together.
-  flip-link: Strategy call includes
-  list-title: 'Strategy call includes:'
+  price: "$47"
+  description: Managing your time is the secret to managing your life when you have a business and a baby.
+    Use Asana to create a time management framework that accounts for your life’s ins, outs, ups, and downs
+    and helps you plan your day, map your goals, and capture your inspiration at a pace that works for you.
+  flip-link: The training includes
+  back-description: Asana is a work management platform and a tool to help you stay focused on the goals, projects,
+    and tasks that run and grow your business.
+  list-title: "This package includes:"
   list-items:
-  - Define goals for your maternity leave
-  - Identify options for your business
-  - Calculate your finances
-  - Review areas for delegation and automation
-  - Develop new product ideas
-  - Discuss productivity and tools to work with the “pregnancy brain”
-plans:
-  title: Plans
+    - Master the basics of Asana - Blend your family life with your business life
+    - Plan Your Day - Review sample schedules for pregnancy and beyond
+    - Map Your Goals - Learn how to hold planning and review sessions for your biz
+    - Catch Your Inspiration -Store ideas, create a resource library, share onboarding docs
+    - Time Mgmt Tips - Learn how to run a fractured work day, where to find deep work hours, and a conversation on coming to terms with a slower work pace.
+  cta-link: https://nestingyourbusiness.vipmembervault.com/teaser/courses/view/25
+  cta-title: Sign Me Up!
+
+maternity_leave_strategy_package:
+  title: Maternity Leave Strategy Package
   icon: fa-calendar-check-o
-  description: I’ll provide you with detailed project plans to accomplish the goals
-    we identify during the strategy session. These plans give you a simple task list
-    to follow on a customized timeline. The timeline ensures the work gets done before
-    D-Day while making sure to build in enough time for your current client work and
-    the Rest that your body needs.
-  flip-link: Project plans may include
-  list-title: 'Project plans may include:'
+  price: $297
+  description: Start with a laser-focused support call to determine the best personalized maternity leave strategy
+    for you and your business followed up with a customized plan to implement.
+  flip-link: This package includes
+  back-description:  Think it’s impossible for your business to run without you? Think again! We’ll take time to talk
+    about your goals for your business and your maternity leave, diving deep into where you’re at now vs. where you want to be when “delivery day” arrives. 
+  list-title: "This package includes:"
   list-items:
-  - Build a digital product
-  - Launch a course
-  - Create editorial calendars
-  - Develop marketing content
-  - Hire and onboard a VA
-  - Automate a sales funnel
-  - And more.
-process:
-  title: Process
+    - Prior to our call, we’ll conduct an in-depth assessment of your business operations
+    - A 45-minute recorded strategy session to talk about goals, leave options, and finding alignment for you and your business
+    - A customized guide that outlines actionable tactics for implementation
+  cta-link: https://nestingyourbusiness.vipmembervault.com/teaser/courses/view/18
+  cta-title: Sign Me Up!
+
+return_to_work_strategy_package:
+  title: Return to Work Strategy Package
   icon: fa-tasks
-  description: We’re going to take all your important processes and document them
-    using my developed templates. These SOPs (standard operating procedures) can be
-    used by you when you’re tired and your brain in overloaded OR by any team members
-    you hire making sure the end result is consistent each time.
-  flip-link: Processes may include
-  list-title: 'Processes may include:'
+  price: $297
+  description: Start with a laser-focused strategy call to review your goals for business and motherhood so I can
+    identify the business shifts you can make to align followed up with a customized plan to implement.
+  flip-link: With this package you’ll get
+  back-description: Dreading your return to work, afraid to open your inbox, or feeling overwhelmed by the thought of trying to
+    step back into a role that no longer fits you? Let’s babyproof your business so you can come back with confidence
+    and dive in with a renewed sense of what matters most.
+  list-title: "This package includes:"
   list-items:
-  - Writing, editing, and posting a blog post
-  - FB group monitoring
-  - Social media engagement
-  - Client onboarding
-  - Funnel design and launch
-  - SEO optimization
-  - And more.
-tech_tools:
-  title: Tech & Tools
+    - Prior to our call, we’ll conduct an in-depth assessment of your business operations
+    - A 45-minute recorded strategy session to talk about goals, how to overcome any obstacles, and finding alignment for you and your business
+    - A customized guide that outlines actionable tactics for implementation
+  cta-link: https://nestingyourbusiness.vipmembervault.com/teaser/courses/view/24
+  cta-title: Sign Me Up!
+
+the_nesting_your_business_program:
+  title: The Nesting Your Business Program
   icon: fa-sitemap
-  description: We’ll evaluate your current workflows, software mix, and business plans
-    to maximize automation and efficiency. We’ll make sure you are using the best
-    tools for your business without overspending on tech. And we’ll get each tool
-    set-up and integrated into your business so you won’t have that nagging to-do
-    item on your list that never seems to get done.
-  flip-link: Together we will
-  list-title: 'Together we will:'
+  price: "$2,500"
+  description: For moms and moms-to-be, the Nesting Your Business Program spans 6 months and is designed
+    to prepare you to transition from maternity leave back to running your business. Learn how your new
+    role as mom can happily coexist with your evolving role as a business owner and find your stride with
+    optimized strategies and tactics for both.
+  flip-link: The Nesting Your Business Program includes
+  back-description: Wondering if it’s possible to run a thriving, successful operation- confidently, calmly, and
+    consistently - while also being a present parent enjoying your new baby? It totally is!
+  list-title: "In this program you’ll get:"
   list-items:
-  - Review your current tools and tech set-up
-  - Identify new tools to support your business
-  - Streamline your software mix
-  - Provide tech support and training for any migrations
-motivation_support:
-  title: Motivation & Support
+    - 6 months of coaching
+    - Help strategizing, planning, and directing your business operations
+    - 10 digital trainings diving into mindset, behavioral science, and tactical business training
+    - Exercises to gain clarity, hone strategy, and implement operational changes
+    - Three power-packed 1:1 sessions including a 2-hour Strategy Intensive
+    - Bi-weekly group coaching throughout the 6 months for Q&A and general support
+  cta-link: https://nestingyourbusiness.vipmembervault.com/teaser/courses/view/6
+  cta-title: Sign Me Up!
+
+private_1_1_coaching_strategy:
+  title: "Private 1:1 Coaching Strategy"
   icon: fa-life-ring
-  description: Running an online business is often an isolating affair and I found
-    it to be more so when I was pregnant. It’s hard to find the dedication for your
-    business when you have such a big non-business event happening in your life. Our
-    Motivation & Accountability calls will help you refocus back on your business
-    NOW so you can completely unplug when the little one arrives.
-  flip-link: These calls are used to
-  list-title: 'These calls are used to:'
+  price: "Custom"
+  description: Elevate your experience with a more personalized approach and get coaching that’s tailored
+    to your unique situation. Enjoy a higher level of support, extra helpings of motivation and accountability,
+    and fully customized map to get you and your business where you want to be.
+  flip-link: Private coaching can include
+  back-description: Just like every business is different, so too is the person running it. Your specific challenges
+    and needs (in business and in pregnancy/motherhood) may be highly unique, and if that’s the case…
+  list-title: "Private coaching gets you:"
   list-items:
-  - Review plan progress and work through any blocks
-  - Guide strategic decisions
-  - Answer questions & brainstorm/refine ideas
-  - Provide recommended resources for any outsourced work
-  - Demo tools and tech training
-  - Commiserate on all the changes your baby is making to your mind and body
-  - Share tips and tricks for working during this time
-documentation:
-  title: Documentation & Instruction
-  icon: fa-bookmark
-  description: Have you lost your phone in the refrigerator yet? Not to worry, your
-    body and brain are focused on A LOT right now. Our work together won’t be one
-    more thing you need to worry about. All calls, decisions, and instructions will
-    be documented so you won't forget a thing and you can refer back to the materials
-    at any time or share them with your team.
-  flip-link: Documentation includes
-  list-title: 'Documentation includes:'
+    - Individualized strategic, tactical, and emotional support
+    - Highly tailored one-time, ongoing, or totally custom options to choose from
+    - Face to face accountability and encouragement
+    - Extra support for roadblocks, pivots, and bumps in the road
+  cta-link: https://meghandicklin.as.me/?appointmentType=1889337
+  cta-title: Let's Chat!
+
+made_ready:
+  title: "MADE Ready: Moms Aligning to Drive Entrepreneurship"
+  icon: fa-users
+  price: "$150"
+  description: Local to Colorado? Join our meetup!
+    MADE Ready is a local meetup and quarterly retreat happening in Longmont, Colorado. We meet monthly to
+    learn, grow, and thrive together as moms and entrepreneurs.
+  flip-link: MADE Ready is for
+  back-description: Looking for support, camaraderie, and community? You can sign up for individual meetups here
+    or become a Member and get access to all the monthly meetups included!
+  list-title: "Members get:"
   list-items:
-  - Recorded Zoom calls
-  - Report summaries for all strategic decisions
-  - Detailed project plans shared in your preferred format (Trello, Asana, or Google
-    Drive)
-  - Documented SOPs for all defined processes
-  - Loom video tutorials detailing tech instructions
+    - One year of monthly meetups featuring a speaker (normally $20)
+    - Weekly co-working to get sh*t done!
+    - A community of women, all moms building businesses just like you
+    - Recommended book list
+    - 25% off of retreats
+    - And more (we're just getting started!)
+  cta-link: https://nestingyourbusiness.vipmembervault.com/teaser/courses/view/17
+  cta-title: Sign Me Up!

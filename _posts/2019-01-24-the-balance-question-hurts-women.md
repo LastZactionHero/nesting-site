@@ -1,5 +1,5 @@
 ---
-layout: "'post'"
+layout: post
 title: The Balance Question Hurts Women
 date: 2019-01-24 00:00:00 -0700
 permalink: "/the-balance-question-hurts-women/"

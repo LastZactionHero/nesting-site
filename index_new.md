@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Maternity Leave Design
-home: true
+permalink: "/index_new/"
 ---
 
 <div class='splash'>
   <div class='container'>
     <div class='row'>
-      <div class='col-md-10 col-md-offset-1'>
+      <div class='col-md-12'>
         <img src="/assets/images/nesting/logo_large.png" />
         <div class='subtitle'>Pregnancy + Maternity Leave + Baby &amp; Beyond</div>
       </div>
@@ -162,14 +162,14 @@ home: true
           If you’re struggling to understand what things will look like once your baby arrives, or if you're a work at home mom who feels totally overwhelmed, consider me your new best friend - I’ve figured it out and have the map to prove it.
         </p>
 
-        <p class='p2'>Wondering how it works? Click <strong><a href="/about">HERE</a></strong> to keep reading...</p>
+        <p class='p2'>Wondering how it works? Click <strong><a>XX HERE XX</a></strong> to keep reading...</p>
       </div>
     </div>
   </div>
 </section>
 
 
-<section class="light-gray-bg pv-30 clearfix" id='at-your-service'>
+<section class="light-gray-bg pv-30 clearfix" id='how-we-work-together'>
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2">

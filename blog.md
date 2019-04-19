@@ -7,7 +7,7 @@ permalink: "/blog/"
 # The Nest
 
 <div class='container'>
-  <div class='col-md-8'>
+  <div class='col-md-10 col-md-offset-1'>
     <ul class='posts'>
       {% for post in site.posts %}
         <li class='post'>
@@ -17,9 +17,6 @@ permalink: "/blog/"
         </li>
       {% endfor %}
     </ul>
-  </div>
-  <div class='col-md-4'>
-    {% include ck_form.html %}
   </div>
 
 </div>
