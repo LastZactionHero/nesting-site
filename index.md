@@ -80,36 +80,8 @@ home: true
         </p>
 
         <p class='p2'>
-          When you work with me, we’ll optimize your operations and turn your business into a highly proficient and beautifully nimble collection of interrelated systems - all designed to free up your time and help you be a much happier mom.
+          When you work with me, we'll optimize your operations and dig deep into your mindset to uncover your true desires for your business and new life as a parent ensuring your time and energy are freed up to be a happy, healthy, present business-owning mom.
         </p>
-      </div>
-
-      <div class='col-md-12 exhale-40'>
-        <h3>I can help with ALL aspects of your operations...</h3>
-        <div class='col-md-4'>
-          <ul>
-            <li>Time Management</li>
-            <li>Productivity Hacks</li>
-            <li>Emotional Resilience</li>
-            <li>Business Growth</li>
-          </ul>
-        </div>
-        <div class='col-md-4'>
-          <ul>
-            <li>Streamlining Your Offers</li>
-            <li>Marketing &amp; Messaging</li>
-            <li>Powerful Sales</li>
-            <li>Client Management</li>
-          </ul>
-        </div>
-        <div class='col-md-4'>
-          <ul>
-            <li>Contracts &amp; Money</li>
-            <li>Hiring Help</li>
-            <li>Training Your Team</li>
-            <li>Mindset Shifts</li>
-          </ul>
-        </div>
       </div>
     </div>
 
@@ -135,19 +107,27 @@ home: true
       </div>
       <div class="col-md-10 col-md-offset-1 exhale-40">
         <p class='p2'>
-          Running a business is challenging, but finding a way to keep it all going when you’re expecting (and all you’re dreaming about is enjoying your upcoming maternity leave in peace) can feel impossible.
+          Running a business is challenging, but finding a way to keep it all going when you’re expecting (and your body, mind, and spirit just won't stay focused on work) can feel impossible.
         </p>
 
         <p class='p2'>
-          <strong>I know because I remember laying in bed, bulging baby bump and all, crying because I was completely overwhelmed by the thought of making it all work.</strong>
+          <strong>I know because I remember laying in bed, bulging baby bump and all, completely overwhelmed by the thought of making it all work.</strong>
         </p>
 
         <p class='p2'>
-          Despite feeling totally stuck, I managed to figure it out. I took my experience in business operations, project planning, and management and cobbled together a plan that gave me time with our son and a business to come back to.
+         And I have an extensive background in project management. My job was to take large scale, multi-million dollar projects with 100s of moving pieces, dozens of team members, and several unexpected curveballs from conception to delivery. I should have been the perfect person to design and implement a maternity leave plan.
         </p>
 
         <p class='p2'>
-          In hindsight, there were so many things I would have done differently, but I had no roadmap to follow. Being the problem-solving, efficiency-obsessed person that I am, an idea began to form, and instead of returning to business as usual when my leave ended, I decided to pivot.
+          But here is the catch and the reason I created this business. This project you're embarking on - planning for maternity leave - requires management of yourself, your pregnant self. There will be unexpected curveballs, new moods and emotions, and moving pieces in a constant state of flux. And even the most experienced project manager will stumble with this personal, highly important endeavor. I'm here to smooth the path for you.
+        </p>
+
+        <p class='p2'>
+          Despite my own missteps, I pulled together a plan that gave me time with our son and a business to come back to.
+        </p>
+
+        <p class='p2'>
+          In hindsight, there were so many things I would have done differently, but I had no roadmap to follow. Being the problem-solving, never-settle person that I am, an idea began to form, and instead of returning to business as usual when my leave ended, I directed my focus to a group I hold in the highest esteem, working parents.
         </p>
 
         <p class='p2'>
@@ -155,14 +135,14 @@ home: true
         </p>
 
         <p class='p2'>
-          <em>That roadmap I so desperately needed?</em> <strong>I made one and it’s life-altering.</strong>
+          <em>That roadmap I so desperately needed?</em> <strong>I made one, fully personalized to each individual journey, and it's life-altering.</strong>
         </p>
 
         <p class='p2'>
-          If you’re struggling to understand what things will look like once your baby arrives, or if you're a work at home mom who feels totally overwhelmed, consider me your new best friend - I’ve figured it out and have the map to prove it.
+          If you’re struggling to understand what things will look like once your baby arrives, or if you're a work at home mom who feels totally overwhelmed, I'm here for you - I've taken my background in project and people management and combined it with years of study in empowering women to set up a business that fits their life.
         </p>
 
-        <p class='p2'>Wondering how it works? Click <strong><a href="/about">HERE</a></strong> to keep reading...</p>
+        <p class='p2'>Want to know more? Click <strong><a href="/about">HERE</a></strong> to keep reading...</p>
       </div>
     </div>
   </div>
@@ -181,34 +161,17 @@ home: true
       </div>
     </div>
 
-    <div class='row'>
-      <div class="col-md-4 ">
-        {% include feature_flipcard.html feature=site.data.features.maternity_leave_strategy_package %}
+    <div class="row">
+      <div class="col-md-6 text-center" style="margin: 140px 0px;">
+        <p class="large text-center">
+          I'm excited to share my current offering of retreats, courses, programs, 1:1 coaching, and local meet-ups.
+        </p>
+        <a class='btn btn-info btn-lg' href="https://nestingyourbusiness.vipmembervault.com/teaser/courses">View Current Offerings</a>
       </div>
-
-      <div class="col-md-4 ">
-        {% include feature_flipcard.html feature=site.data.features.the_nesting_your_business_program %}
-      </div>
-
-      <div class="col-md-4 ">
-        {% include feature_flipcard.html feature=site.data.features.return_to_work_strategy_package %}
+      <div class="col-md-6">
+        <img src='/assets/images/nesting/headshot-1.jpg' width="100%" style="height: 460px; object-fit: cover;" />
       </div>
     </div>
-
-    <div class='row'>
-      <div class="col-md-4 ">
-        {% include feature_flipcard.html feature=site.data.features.the_anana_system %}
-      </div>
-
-      <div class="col-md-4 ">
-        {% include feature_flipcard.html feature=site.data.features.private_1_1_coaching_strategy %}
-      </div>
-
-      <div class="col-md-4 ">
-        {% include feature_flipcard.html feature=site.data.features.made_ready %}
-      </div>
-    </div>
-
   </div>
 </section>
 
@@ -234,7 +197,7 @@ home: true
       </div>
       <div class='col-md-4 col-sm-12 text-center package-cta'>
         <div class='prompt'>NOT SURE WHAT YOU NEED?</div>
-        <a class='btn btn-info btn-lg' target="_blank" href="https://meghandicklin.as.me/schedule.php?appointmentType=1889337">Get 15 minutes FREE</a>
+        <a class='btn btn-info btn-lg' target="_blank" href="https://meghandicklin.as.me/?appointmentType=4937007">Get 20 minutes FREE</a>
       </div>
     </div>
   </div>
