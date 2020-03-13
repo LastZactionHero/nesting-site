@@ -1,5 +1,5 @@
 ---
-layout: "'post'"
+layout: post
 title: Support Your Clients. Protect Your Time. Make All The Money..
 date: 2019-04-03 08:00:00 -0600
 permalink: "/support-your-clients-protect-your-time-make-all-the-money/"
