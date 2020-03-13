@@ -1,10 +1,10 @@
 ---
-layout: "'post'"
-title: When Your Business is Your Only Time for You
-date: 2019-05-09 09:00:00 -0600
-permalink: "/when-your-business-is-your-only-time-for-you/"
-summary: It's time for more.
-description: It's time for more.
+layout: post
+title: When Your Business Is Your Only Time For You
+date: 2019-05-09 08:00:00 -0600
+permalink: "/when-your-business-is-your-time-for-you/"
+summary: It is time for more.
+description: It is time for more.
 
 ---
 Last year, I was strategizing with the owner of a new mom’s space about pricing and services to offer within the space. We quickly focused on the fact that business owners would pay because their business justified it as an investment. Moms without a business would be harder to convince to spend money on themselves.
