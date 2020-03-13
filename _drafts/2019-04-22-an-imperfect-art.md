@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "'post'"
 title: An Imperfect Art.
 date: 2019-04-22 08:00:00 -0600
 permalink: "/an-imperfect-art/"
