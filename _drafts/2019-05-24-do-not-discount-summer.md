@@ -1,5 +1,5 @@
 ---
-layout: "'post'"
+layout: post
 title: Do Not Discount Summer
 date: 2019-05-24 08:00:00 -0600
 permalink: "/do-not-discount-summer/"

@@ -1,5 +1,5 @@
 ---
-layout: "'post'"
+layout: post
 title: Come Rest In The Middle.
 date: 2019-06-07 08:00:00 -0600
 permalink: "/come-rest-in-the-middle/"

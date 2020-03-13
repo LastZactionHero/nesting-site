@@ -1,5 +1,5 @@
 ---
-layout: "'post'"
+layout: post
 title: Are our virtues flawed?
 date: 2019-04-25 08:00:00 -0600
 permalink: "/are-our-virtues-flawed/"
