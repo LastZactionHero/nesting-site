@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Business woes got you down? You are so close.
-date: 2019-06-17 00:00:00 -0600
+date: 2019-06-17 08:00:00 -0600
 permalink: "/business-woes-got-you-down-you-are-so-close/"
 summary: Better marketing may not be the answer to your business woes.
 description: Better marketing may not be the answer to your business woes.
