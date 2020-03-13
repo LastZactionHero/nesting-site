@@ -7,7 +7,7 @@ summary: My entrepreneur story.
 description: My entrepreneur story.
 
 ---
-Do you love entrepreneurs stories as much as I do? It's always this fascinating, windy, bendy road that feels like chaos in the thick of it, but all makes sense when you look back on the journey.
+Do you love entrepreneurs stories as much as I do? It is always this fascinating, windy, bendy road that feels like chaos in the thick of it, but all makes sense when you look back on the journey.
 
 Here is my story and it follows 3 likely steps towards financial security and freedom.
 
@@ -15,7 +15,7 @@ Many of you know I started my business 4 years ago. I was 31, married, leading a
 
 I did all the naive things to build my business like set up a website, get business cards printed, and rattle off a list of services I could support. I chatted with a few people on LinkedIn, but didn't do much else to find a client. After a few weeks (yes weeks!) without making money, I panicked.
 
-I had made a steady paycheck my whole life and I wasn't quite prepared for the financial ups and downs of entrepreneurship. So I found a gig I like to call, Entrepreneurship Lite. Have you had one of these?
+I had made a steady paycheck my whole life and I was not quite prepared for the financial ups and downs of entrepreneurship. So I found a gig I like to call, Entrepreneurship Lite. Have you had one of these?
 
 **Step One: Entrepreneurship Lite**
 
@@ -37,6 +37,6 @@ YOU SELL THE SAME THING OVER AND OVER AGAIN!
 * **Do you sell a digital product or book?** Sell it over and over again.
 * **Do you provide a service?** That's right. Sell it over and over again. Gone are the days of "custom every time". You're an expert in your field. You know what works. Take what works + what you like to do, package it up, and sell it over and over again. Find your audience, discover exactly what it takes for them to buy your package and do it over and over again. Automate and refine the delivery of your package and do it over and over again.
 
-That's how you go from feast or famine to booked out 3 months in advance with just the right amount of clients to deliver security and freedom.
+That is how you go from feast or famine to booked out 3 months in advance with just the right amount of clients to deliver security and freedom.
 
-It's summer after all - you need the time to splash with your kids in the pool.
+It is summer after all - you need the time to splash with your kids in the pool.
