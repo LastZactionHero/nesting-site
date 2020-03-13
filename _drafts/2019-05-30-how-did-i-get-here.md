@@ -1,5 +1,5 @@
 ---
-layout: "'post'"
+layout: post
 title: How did I get here?
 date: 2019-05-30 08:00:00 -0600
 permalink: "/how-did-i-get-here/"
