@@ -1,5 +1,5 @@
 ---
-layout: "'post'"
+layout: post
 title: People Pleasers Make VA Rates
 date: 2019-05-17 08:00:00 -0600
 permalink: "/people-pleasers-make-va-rates/"
