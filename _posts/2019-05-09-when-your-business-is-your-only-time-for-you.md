@@ -2,7 +2,7 @@
 layout: "'post'"
 title: When Your Business is Your Only Time for You
 date: 2019-05-09 09:00:00 -0600
-permalink: when-your-business-is-your-only-time-for-you
+permalink: "/when-your-business-is-your-only-time-for-you/"
 summary: It's time for more.
 description: It's time for more.
 
