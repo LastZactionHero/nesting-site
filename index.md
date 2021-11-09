@@ -2,8 +2,8 @@
 layout: default
 title: Maternity Leave Design
 home: true
----
 
+---
 <div class='splash'>
   <div class='container'>
     <div class='row'>
@@ -26,7 +26,7 @@ home: true
       pregnancy, maternity leave, and the first 6 months of your baby’s life.
     </p>
     <div class='text-center'>
-      <a href='https://nestingyourbusiness.vipmembervault.com/teaser/courses/view/20' class='btn btn-info btn-lg' target='_blank'>
+      <a href='https://nestingyourbusiness.vipmembervault.com/products/courses/view/20' class='btn btn-info btn-lg' target='_blank'>
         DOWNLOAD THIS LIFESAVER NOW!
       </a>
     </div>
@@ -86,7 +86,7 @@ home: true
     </div>
 
     <div class='col-md-6 text-center'>
-      <a class='btn btn-info btn-lg' target="_blank" href="https://nestingyourbusiness.vipmembervault.com/teaser/courses">
+      <a class='btn btn-info btn-lg' target="_blank" href="https://nestingyourbusiness.vipmembervault.com/products/courses/view">
         PURCHASE A PACKAGE
       </a>
     </div>
@@ -166,7 +166,7 @@ home: true
         <p class="large text-center">
           I'm excited to share my current offering of retreats, courses, programs, 1:1 coaching, and local meet-ups.
         </p>
-        <a class='btn btn-info btn-lg' href="https://nestingyourbusiness.vipmembervault.com/teaser/courses">View Current Offerings</a>
+        <a class='btn btn-info btn-lg' href="https://nestingyourbusiness.vipmembervault.com/products/courses/view">View Current Offerings</a>
       </div>
       <div class="col-md-6">
         <img src='/assets/images/nesting/headshot-1.jpg' width="100%" style="height: 460px; object-fit: cover;" />
@@ -189,7 +189,7 @@ home: true
     <div class='row exhale-40'>
       <div class='col-md-4 col-sm-12 text-center package-cta'>
         <div class='prompt'>KNOW WHAT YOU WANT?</div>
-        <a class='btn btn-info btn-lg' target="_blank" href="https://nestingyourbusiness.vipmembervault.com/teaser/courses">Buy A Package</a>
+        <a class='btn btn-info btn-lg' target="_blank" href="https://nestingyourbusiness.vipmembervault.com/products/courses/view">Buy A Package</a>
       </div>
       <div class='col-md-4 col-sm-12 text-center package-cta'>
         <div class='prompt'>NEED CUSTOMIZED SUPPORT?</div>
